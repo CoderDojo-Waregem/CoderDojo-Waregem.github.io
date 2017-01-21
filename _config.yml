@@ -1,0 +1,8 @@
+title: CoderDojo Waregem
+description: may the source be with you
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
