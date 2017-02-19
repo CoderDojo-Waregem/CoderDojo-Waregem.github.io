@@ -103,7 +103,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - Christophe Fauconnier
 - [Michel Lambrecht](https://github.com/MichelLambrecht)
 - [Patrick Meuris](https://github.com/patrickmeuris)
-- Marian Ogadze
+- Mariam Ogadze
 - Jan Sabbe
 - Sam Schotte
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
