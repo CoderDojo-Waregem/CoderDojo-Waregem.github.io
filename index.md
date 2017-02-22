@@ -88,6 +88,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Tropical Tunes](https://drive.google.com/open?id=0B_FlIjXoGUrSYU1wcDU2bkZ0ZjQ)
   - [Simon Says](https://drive.google.com/open?id=0B_FlIjXoGUrSTC1sWVBhMDJXdzg) (voorbeeloplossing: [PDF](https://drive.google.com/open?id=0B_FlIjXoGUrSLVpsd0ZMejlkX0U)/[Scratch](https://scratch.mit.edu/projects/134384127/))
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
+- [Scratch For Arduino](http://s4a.cat)
+  - [Installatiebestanden](https://drive.google.com/open?id=0B9JzX2ePyGz4UXc1NjRLLUoyOFk)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
