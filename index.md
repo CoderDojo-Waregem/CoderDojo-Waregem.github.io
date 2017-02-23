@@ -22,7 +22,6 @@ Deel deze [video over CoderDojo](https://youtu.be/c7ROVdcyk7s) met je vrienden e
 
 *"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan info@coderdojo-waregem.be."*
 
-[comment]: <> (
 ## CodeUur
 
 Tijdens de [week van het programmeren](https://csedweek.org/) die loopt van **5-11 december 2016** organiseren scholen in meer dan 180 landen het [CodeUur](https://hourofcode.com/nl) (*Hour of Code*). Het doel is om tientallen miljoenen leerlingen wereldwijd tijdens een activiteit van één uur te laten kennismaken met de wondere wereld van programmeren. Iedereen kan waar dan ook een CodeUur organiseren (ook buiten de week van het programmeren), want er werden heel wat kant-en-klare uitdagingen uitgewerkt, waarvan de meeste ook in het Nederlands vertaald werden. Je hebt helemaal geen ervaring nodig, enkel een computer die verbonden is met het Internet. De activiteiten leggen zichzelf uit en staan open voor jongeren van 4-104 jaar. Verder op deze webgpagina vind je alvast enkele activiteiten van het CodeUur die we in CoderDojo Waregem gebruikt hebben. Kijk voor meer informatie op [code.org](https://code.org/).
@@ -30,8 +29,6 @@ Tijdens de [week van het programmeren](https://csedweek.org/) die loopt van **5-
 Vanuit CoderDojo Waregem geven we onze volle steun aan het [CodeUur](https://hourofcode.com/nl), omdat we geloven dat *elke* leerling de kans moet krijgen om te leren programmeren op school. Het helpt probleemoplossende vaardigheden, logica en creativiteit te ontwikkelen. Daarom dagen we de ninja's van onze CoderDojo uit om met hun klas/school ook een CodeUur te organiseren. Ben je leerkracht en wil je graag wat hulp bij het opzetten van een CodeUur-activiteit op jouw school? Contacteer ons dan op info@coderdojo-waregem.be, en dan kijken we of een van onze coaches zich kan vrijmaken om de activiteit mee te helpen voorbereiden/begeleiden.
 
 ![hour of code](hour-of-code-logo.png)
-
-)
 
 ## CoderWaar ?
 
