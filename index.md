@@ -22,14 +22,6 @@ Deel deze [video over CoderDojo](https://youtu.be/c7ROVdcyk7s) met je vrienden e
 
 *"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan info@coderdojo-waregem.be."*
 
-## CodeUur
-
-Tijdens de [week van het programmeren](https://csedweek.org/) die loopt van **5-11 december 2016** organiseren scholen in meer dan 180 landen het [CodeUur](https://hourofcode.com/nl) (*Hour of Code*). Het doel is om tientallen miljoenen leerlingen wereldwijd tijdens een activiteit van één uur te laten kennismaken met de wondere wereld van programmeren. Iedereen kan waar dan ook een CodeUur organiseren (ook buiten de week van het programmeren), want er werden heel wat kant-en-klare uitdagingen uitgewerkt, waarvan de meeste ook in het Nederlands vertaald werden. Je hebt helemaal geen ervaring nodig, enkel een computer die verbonden is met het Internet. De activiteiten leggen zichzelf uit en staan open voor jongeren van 4-104 jaar. Verder op deze webgpagina vind je alvast enkele activiteiten van het CodeUur die we in CoderDojo Waregem gebruikt hebben. Kijk voor meer informatie op [code.org](https://code.org/).
-
-Vanuit CoderDojo Waregem geven we onze volle steun aan het [CodeUur](https://hourofcode.com/nl), omdat we geloven dat *elke* leerling de kans moet krijgen om te leren programmeren op school. Het helpt probleemoplossende vaardigheden, logica en creativiteit te ontwikkelen. Daarom dagen we de ninja's van onze CoderDojo uit om met hun klas/school ook een CodeUur te organiseren. Ben je leerkracht en wil je graag wat hulp bij het opzetten van een CodeUur-activiteit op jouw school? Contacteer ons dan op info@coderdojo-waregem.be, en dan kijken we of een van onze coaches zich kan vrijmaken om de activiteit mee te helpen voorbereiden/begeleiden.
-
-![hour of code](hour-of-code-logo.png)
-
 ## CoderWaar ?
 
 [bibliotheek Waregem](https://www.google.com/maps/place/50%C2%B052'08.0%22N+3%C2%B024'25.0%22E/@50.8688999,3.4063882,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.8688999!4d3.4069354?hl=en-GB)<br />
@@ -90,6 +82,9 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
 - [Scratch For Arduino](http://s4a.cat)
   - [Installatiebestanden](https://drive.google.com/open?id=0B9JzX2ePyGz4UXc1NjRLLUoyOFk)
+- Mbot
+  - [Installatieprogramma](http://www.mblock.cc/download/)
+  - [Opdrachten](https://drive.google.com/open?id=0B0C5fMkcW0HMQXlTZXJGbVZtcXM)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
@@ -110,7 +105,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - Sam Schotte
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
 
-**Onze cooks:**
+**Onze cook:**
 
 - Pieter Dewolf
 
