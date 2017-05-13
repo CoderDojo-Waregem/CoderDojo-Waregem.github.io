@@ -40,8 +40,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 25 februari 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/DWp7LJLDPDpSbHUk9)) 
 - zaterdag 18 maart 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/mB9KpBYMhy9xsQGR9))
 - zaterdag 15 april 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/inKkNTPqBPbWQ61j9))
-- **zaterdag 13 mei 2017, 09:30-12:30** ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
-- zaterdag 17 juni 2017, 09:30-12:30 ([inschrijving](https://www.eventbrite.nl/e/registratie-coderdojo-waregem-17062017-34571364883)
+- zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
+- **zaterdag 17 juni 2017, 09:30-12:30** ([inschrijving](https://www.eventbrite.nl/e/registratie-coderdojo-waregem-17062017-34571364883))
 
 ## CoderKata
 
