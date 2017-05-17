@@ -43,6 +43,17 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
 - **zaterdag 17 juni 2017, 09:30-12:30** ([inschrijving](https://www.eventbrite.nl/e/registratie-coderdojo-waregem-17062017-34571364883))
 
+- zaterdag 16 september 2017, 09:30-12:30
+- zaterdag 21 oktober 2017, 09:30-12:30
+- zaterdag 18 november 2017, 09:30-12:30
+- zaterdag 16 december 2017, 09:30-12:30
+- zaterdag 20 januari 2017, 09:30-12:30
+- zaterdag 17 februari 2017, 09:30-12:30
+- zaterdag 17 maart 2017, 09:30-12:30
+- zaterdag 21 april 2017, 09:30-12:30
+- zaterdag 19 mei 2017, 09:30-12:30
+- zaterdag 16 juni 2017, 09:30-12:30
+
 ## CoderKata
 
 **Kata** (型, かた) is een term uit de Japanse zelfverdedigingskunsten en vechtsporten die staat voor een individuele stijloefening met een reeks vastgelegde bewegingen, uitgevoerd tegen 4 tot 8 denkbeeldige tegenstanders die uit verschillende richtingen aanvallen. Het is een gedetailleerde reeks vooraf vastgestelde stoot-, trap- en afweertechnieken, die typisch bestaat uit tientallen zeer uiteenlopende bewegingen en technieken. De gehele kata duurt gewoonlijk zo'n 1 à 2 minuten.
