@@ -157,8 +157,8 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
 4. druk op de knop "Remix" (ongeveer op dezelfde plaats als de knop "Bekijk van binnen")
 5. schrijf de nodige scripts die de opdracht uitvoeren
 6. laat je resultaat beoordelen door één van de CoderDojo coaches
-  - correct: voer de volgende opdracht uit vanaf stap 1
-  - niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+    1. correct: voer de volgende opdracht uit vanaf stap 1
+    2. niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
  
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
