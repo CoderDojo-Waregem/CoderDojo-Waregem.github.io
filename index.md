@@ -145,6 +145,23 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - [Programmeren is kinderspel](20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
 - [Programmeren voor de jeugd met Coderdojo](20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
+## CoderChallenge
+
+Om ons eerste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch en er is ook een praktische proef die elk team om de beurt moet proberen uit te voeren.
+
+Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Hieronder vind je een lijst van links naar de verschillende projecten (die pas zichtbaar wordt van zodra we het startschot geven voor de wedstrijd). Om een opdracht uit te voeren ga je als volgt te werk:
+
+1. lees de opdracht in de opdrachtenbundel
+2. open het bijhorende project in Scratch
+3. druk op de knop "Bekijk van binnen"
+4. druk op de knop "Remix" (ongeveer op dezelfde plaats als de knop "Bekijk van binnen")
+5. schrijf de nodige scripts die de opdracht uitvoeren
+6. laat je resultaat beoordelen door één van de CoderDojo coaches
+  a. correct: voer de volgende opdracht uit vanaf stap 1
+  b: niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+ 
+Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
+
 ## Bouw je mee ?
 
 CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinderen op een speelse manier te leren programmeren. CoderDojo wordt volledig ondersteund door vrijwilligers en daarom zijn we ontzettend dankbaar voor elk financieel duwtje in de rug, dat onmiddellijk in de toekomst van onze kinderen kan geïnvesteerd worden. Wil je graag een financiële bijdrage leveren of heeft je bedrijf bijvoorbeeld laptops of tablets die niet meer gebruikt worden, neem dan contact op met info@coderdojo-waregem.be.
