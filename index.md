@@ -162,6 +162,22 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
  
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
+**Opgaven**
+
+- [opgave 01](https://scratch.mit.edu/projects/166310974/)
+- [opgave 02](https://scratch.mit.edu/projects/166311210/)
+- [opgave 03](https://scratch.mit.edu/projects/166311238/)
+- [opgave 04](https://scratch.mit.edu/projects/166311255/)
+- [opgave 05](https://scratch.mit.edu/projects/166311273/)
+- [opgave 06](https://scratch.mit.edu/projects/166311303/)
+- [opgave 07](https://scratch.mit.edu/projects/166311326/)
+- [opgave 08](https://scratch.mit.edu/projects/166311359/)
+- [opgave 09](https://scratch.mit.edu/projects/166311397/)
+- [opgave 10](https://scratch.mit.edu/projects/166311428/)
+- [opgave 11](https://scratch.mit.edu/projects/166311458/)
+- opgave 12 (maak zelf je eigen project)
+- opgave 13 (maak zelf je eigen project)
+
 ## Bouw je mee ?
 
 CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinderen op een speelse manier te leren programmeren. CoderDojo wordt volledig ondersteund door vrijwilligers en daarom zijn we ontzettend dankbaar voor elk financieel duwtje in de rug, dat onmiddellijk in de toekomst van onze kinderen kan geïnvesteerd worden. Wil je graag een financiële bijdrage leveren of heeft je bedrijf bijvoorbeeld laptops of tablets die niet meer gebruikt worden, neem dan contact op met info@coderdojo-waregem.be.
