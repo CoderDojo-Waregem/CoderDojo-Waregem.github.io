@@ -114,6 +114,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - Kristof Pieters
 - Jan Sabbe
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
+- Floris Van Ongeval
 
 **Onze cook:**
 
