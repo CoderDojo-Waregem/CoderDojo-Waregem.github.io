@@ -110,10 +110,9 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - [Mattijs Eggermont](https://github.com/mattijse)
 - Christophe Fauconnier
 - [Michel Lambrecht](https://github.com/MichelLambrecht)
-- [Patrick Meuris](https://github.com/patrickmeuris)
 - Mariam Ogadze
+- Kristof Pieters
 - Jan Sabbe
-- Sam Schotte
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
 
 **Onze cook:**
