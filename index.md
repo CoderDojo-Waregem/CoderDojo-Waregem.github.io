@@ -96,6 +96,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - Mbot
   - [Installatieprogramma](http://www.mblock.cc/download/)
   - [Opdrachten](https://drive.google.com/open?id=0B0C5fMkcW0HMQXlTZXJGbVZtcXM)
+  - Vlieg expeditie: dansende robots ([uitleg](https://drive.google.com/open?id=0B0C5fMkcW0HMM1dzd0UzWkRqMEU), [Scratch project](https://drive.google.com/open?id=0B0C5fMkcW0HMbG9UTXI3aWdnREk))
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
