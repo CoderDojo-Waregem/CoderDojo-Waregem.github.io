@@ -167,6 +167,7 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 **Opgaven**
 
+- [omschrijving opdrachten](https://drive.google.com/open?id=0B_FlIjXoGUrSWVpfckJnekFoSjQ)
 - [opgave 01](https://scratch.mit.edu/projects/166310974/)
 - [opgave 02](https://scratch.mit.edu/projects/166311210/)
 - [opgave 03](https://scratch.mit.edu/projects/166311238/)
