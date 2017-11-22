@@ -60,7 +60,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsporten — heel wat verschillende technieken onder de knie krijgen die je op een welbepaalde manier moet combineren om een opdracht uit te voeren. In de CoderDojo leer je deze technieken spelenderwijs beheersen door middel van een onze eigen kata: opdrachten die je op weg helpen. Eenmaal je de technieken onder de knie hebt, ben je in staat om ze vrij toe te passen en te combineren om zelf dingen te gaan bouwen. Dit zijn de kata waar we momenteel aan werken:
 
-- [Lightbot](https://lightbot.com/hocflash.html)
+- [Lightbot](http://lightbot.com/flash.html)
 - [Hour of Code](https://code.org/learn)
   - [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
   - [Minecraft](https://code.org/mc)
