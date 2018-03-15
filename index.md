@@ -95,6 +95,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
 - [Scratch For Arduino](http://s4a.cat)
   - [Installatiebestanden](https://drive.google.com/open?id=0B9JzX2ePyGz4UXc1NjRLLUoyOFk)
+  - [Parkeergarage - Firmata](files/snap/Ultrasound_HC_SR04Firmata.ino)
+  - [Parkeergarage - Blocks](files/snap/Ultrasound_HC_SR04_blocks.xml)
 - Mbot
   - [Installatieprogramma](http://www.mblock.cc/download/)
   - [Opdrachten](https://drive.google.com/open?id=0B0C5fMkcW0HMQXlTZXJGbVZtcXM)
