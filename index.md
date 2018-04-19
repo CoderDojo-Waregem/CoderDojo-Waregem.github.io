@@ -33,16 +33,6 @@ email: info@coderdojo-waregem.be
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
-- zaterdag 29 oktober 2016, 10:00-13:00 ([foto's](https://goo.gl/photos/b2cYKHVmqAGsx9CW6))
-- zaterdag 19 november 2016, 09:00-12:00 ([foto's](https://goo.gl/photos/pbEZzFzpphPArspK7))
-- zaterdag 10 december 2016, 09:30-12:30 ([foto's](https://goo.gl/photos/Snwn1t67TA2AWzmo9)) 
-- zaterdag 21 januari 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/xDYwve2wtVPbqMZc8)) 
-- zaterdag 25 februari 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/DWp7LJLDPDpSbHUk9)) 
-- zaterdag 18 maart 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/mB9KpBYMhy9xsQGR9))
-- zaterdag 15 april 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/inKkNTPqBPbWQ61j9))
-- zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
-- zaterdag 17 juni 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/rHCSh8MN7smQqMzPA))
-
 - zaterdag 16 september 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/P3EJ5WkFiDO7JoLo2))
 - zaterdag 21 oktober 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/heT1wVgX1ceHCLnQ2))
 - zaterdag 18 november 2017, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/kcAkUb0M532ubsz73)
@@ -53,6 +43,16 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 21 april 2018, 09:30-12:30
 - **zaterdag 19 mei 2018, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19052018-45340521721))
 - zaterdag 16 juni 2018, 09:30-12:30
+
+- zaterdag 29 oktober 2016, 10:00-13:00 ([foto's](https://goo.gl/photos/b2cYKHVmqAGsx9CW6))
+- zaterdag 19 november 2016, 09:00-12:00 ([foto's](https://goo.gl/photos/pbEZzFzpphPArspK7))
+- zaterdag 10 december 2016, 09:30-12:30 ([foto's](https://goo.gl/photos/Snwn1t67TA2AWzmo9)) 
+- zaterdag 21 januari 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/xDYwve2wtVPbqMZc8)) 
+- zaterdag 25 februari 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/DWp7LJLDPDpSbHUk9)) 
+- zaterdag 18 maart 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/mB9KpBYMhy9xsQGR9))
+- zaterdag 15 april 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/inKkNTPqBPbWQ61j9))
+- zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
+- zaterdag 17 juni 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/rHCSh8MN7smQqMzPA))
 
 ## CoderKata
 
