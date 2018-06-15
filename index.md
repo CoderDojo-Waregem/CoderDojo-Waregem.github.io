@@ -154,7 +154,7 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 Om ons eerste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch en er is ook een praktische proef die elk team om de beurt moet proberen uit te voeren.
 
-Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Hieronder vind je een lijst van links naar de verschillende projecten (die pas zichtbaar wordt van zodra we het startschot geven voor de wedstrijd). Om een opdracht uit te voeren ga je als volgt te werk:
+Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
 
 1. lees de opdracht in de opdrachtenbundel
 2. open het bijhorende project in Scratch
