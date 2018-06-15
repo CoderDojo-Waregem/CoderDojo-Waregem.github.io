@@ -150,7 +150,16 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - [Programmeren is kinderspel](20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
 - [Programmeren voor de jeugd met Coderdojo](20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
-## CoderChallenge
+## CoderChallenge 2018
+
+Om ons tweede CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we opnieuw een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 12 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
+
+Via onderstaande link kan je het startbestand downloaden per opdracht. 
+Dit bestand moet je eerst inlezen via "Bestand" / "Uploaden vanaf je computer" (linksbovenaan) in Scratch.
+
+[Klik hier om de startbestanden te downloaden](https://drive.google.com/open?id=1ChmmIKZbkCbHWE_zYcHnUjo_7UK6uoUm)
+
+## CoderChallenge 2017
 
 Om ons eerste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch en er is ook een praktische proef die elk team om de beurt moet proberen uit te voeren.
 
