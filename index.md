@@ -167,6 +167,10 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
  
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
+**Opgaven**
+
+De startprojecten voor de **Scratch Cup 2018** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/5185408/).
+
 ## CoderChallenge 2017
 
 Om ons eerste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch en er is ook een praktische proef die elk team om de beurt moet proberen uit te voeren.
