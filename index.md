@@ -152,12 +152,20 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 ## CoderChallenge 2018
 
-Om ons tweede CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we opnieuw een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 12 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
+Om ons tweede CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
-Via onderstaande link kan je het startbestand downloaden per opdracht. 
-Dit bestand moet je eerst inlezen via "Bestand" / "Uploaden vanaf je computer" (linksbovenaan) in Scratch.
+Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
 
-[Klik hier om de startbestanden te downloaden](https://drive.google.com/open?id=1ChmmIKZbkCbHWE_zYcHnUjo_7UK6uoUm)
+1. lees de opdracht in de opdrachtenbundel
+2. open het bijhorende project in Scratch
+3. druk op de knop "Bekijk van binnen"
+4. druk op de knop "Remix" (ongeveer op dezelfde plaats als de knop "Bekijk van binnen")
+5. schrijf de nodige scripts die de opdracht uitvoeren
+6. laat je resultaat beoordelen door één van de CoderDojo coaches
+    * correct: voer de volgende opdracht uit vanaf stap 1
+    * niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+ 
+Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
 ## CoderChallenge 2017
 
