@@ -113,7 +113,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - micro:bit
   - eerste stapjes ([blockly](https://drive.google.com/open?id=0B_FlIjXoGUrSaDlMNk5ZdS00MVE), [python](https://drive.google.com/open?id=0B_FlIjXoGUrSTGRPYTdNTXQ2OVk))
   - [ninja:bit](https://drive.google.com/open?id=11gVywUCyb3CfutYT0vQAWILB1tSIDXch)
-  - Pimp my micro:bit ([Video](IMG_0924.mp4))
+  - micro:bit op wielen ([Video](IMG_0924.mp4))
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
