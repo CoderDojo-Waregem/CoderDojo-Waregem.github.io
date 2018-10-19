@@ -24,7 +24,7 @@ Deel deze [video over CoderDojo](https://youtu.be/c7ROVdcyk7s) met je vrienden e
 
 ## CoderWaar ?
 
-[bibliotheek Waregem](https://www.google.com/maps/place/50%C2%B052'08.0%22N+3%C2%B024'25.0%22E/@50.8688999,3.4063882,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.8688999!4d3.4069354?hl=en-GB)<br />
+[Bibliotheek Waregem](https://www.google.com/maps/place/50%C2%B052'08.0%22N+3%C2%B024'25.0%22E/@50.8688999,3.4063882,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.8688999!4d3.4069354?hl=en-GB)<br />
 Boekenplein 1<br />
 8790 Waregem<br />
 email: info@coderdojo-waregem.be
