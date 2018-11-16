@@ -35,8 +35,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 - zaterdag 15 september 2018, 09:30-12:30
 - zaterdag 20 oktober 2018, 09:30-12:30 ([foto's](https://photos.app.goo.gl/ePgR7DzJ81Frtx8PA))
-- **zaterdag 17 november 2018, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-17112018-51589282934))
-- zaterdag 15 december 2018, 09:30-12:30
+- zaterdag 17 november 2018, 09:30-12:30
+- **zaterdag 15 december 2018, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-15122018-52712427289))
 - zaterdag 19 januari 2019, 09:30-12:30
 - zaterdag 16 februari 2019, 09:30-12:30
 - zaterdag 16 maart 2019, 09:30-12:30
