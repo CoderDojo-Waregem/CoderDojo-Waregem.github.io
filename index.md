@@ -73,6 +73,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 
 - [Lightbot](http://lightbot.com/flash.html)
 - [Hour of Code](https://code.org/learn)
+  - [Dance Party](https://code.org/dance)
   - [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
   - [Minecraft](https://code.org/mc)
   - [Angry Birds](https://studio.code.org/hoc/1)
