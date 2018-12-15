@@ -121,6 +121,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Nikolina](https://jsfiddle.net/168k5uys/2/show/)
   - [Stevan](https://jsfiddle.net/kgb9to0v/show/)
   - [Lena](https://jsfiddle.net/pd09L85v/show/)
+- Dance Party:
+  - [Robbe](https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU)
   
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
