@@ -119,6 +119,13 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - eerste stapjes ([blockly](https://drive.google.com/open?id=0B_FlIjXoGUrSaDlMNk5ZdS00MVE), [python](https://drive.google.com/open?id=0B_FlIjXoGUrSTGRPYTdNTXQ2OVk))
   - [ninja:bit](https://drive.google.com/open?id=11gVywUCyb3CfutYT0vQAWILB1tSIDXch)
   - micro:bit op wielen ([Video](IMG_0924.mp4))
+- websites bouwen
+  - [Lukas](https://jsfiddle.net/q2ajgrz0/2/)
+  - [Jens](https://jsfiddle.net/hzag0tk3/)
+  - [Nikolina](https://jsfiddle.net/168k5uys/2/)
+  - [Stevan](https://jsfiddle.net/kgb9to0v/)
+  - [Lena](https://jsfiddle.net/pd09L85v/)
+  
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
