@@ -44,10 +44,6 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 18 mei 2019, 09:30-12:30
 - zaterdag 1 juni 2019, 09:30-12:30
 
-
-
-
-
 - zaterdag 16 september 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/P3EJ5WkFiDO7JoLo2))
 - zaterdag 21 oktober 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/heT1wVgX1ceHCLnQ2))
 - zaterdag 18 november 2017, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/kcAkUb0M532ubsz73)
@@ -120,11 +116,11 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [ninja:bit](https://drive.google.com/open?id=11gVywUCyb3CfutYT0vQAWILB1tSIDXch)
   - micro:bit op wielen ([Video](IMG_0924.mp4))
 - websites bouwen
-  - [Lukas](https://jsfiddle.net/q2ajgrz0/2/)
-  - [Jens](https://jsfiddle.net/hzag0tk3/)
-  - [Nikolina](https://jsfiddle.net/168k5uys/2/)
-  - [Stevan](https://jsfiddle.net/kgb9to0v/)
-  - [Lena](https://jsfiddle.net/pd09L85v/)
+  - [Lukas](https://jsfiddle.net/q2ajgrz0/2/show/)
+  - [Jens](https://jsfiddle.net/hzag0tk3/show/)
+  - [Nikolina](https://jsfiddle.net/168k5uys/2/show/)
+  - [Stevan](https://jsfiddle.net/kgb9to0v/show/)
+  - [Lena](https://jsfiddle.net/pd09L85v/show/)
   
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
