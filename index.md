@@ -115,6 +115,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - eerste stapjes ([blockly](https://drive.google.com/open?id=0B_FlIjXoGUrSaDlMNk5ZdS00MVE), [python](https://drive.google.com/open?id=0B_FlIjXoGUrSTGRPYTdNTXQ2OVk))
   - [ninja:bit](https://drive.google.com/open?id=11gVywUCyb3CfutYT0vQAWILB1tSIDXch)
   - micro:bit op wielen ([Video](IMG_0924.mp4))
+  - [mu editor](https://codewith.mu/)
 - websites bouwen
   - [Lukas](https://jsfiddle.net/q2ajgrz0/2/show/)
   - [Jens](https://jsfiddle.net/hzag0tk3/show/)
