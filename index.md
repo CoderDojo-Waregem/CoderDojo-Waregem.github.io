@@ -137,12 +137,10 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 **Onze coaches:**
 
 - [Peter Dawyndt](https://github.com/pdawyndt)
-- [Dries Desmet](https://github.com/driesdesmet)
 - [Mattijs Eggermont](https://github.com/mattijse)
 - Christophe Fauconnier
 - [Michel Lambrecht](https://github.com/MichelLambrecht)
 - Mariam Ogadze
-- Kristof Pieters
 - Jan Sabbe
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
 - Floris Van Ongeval
