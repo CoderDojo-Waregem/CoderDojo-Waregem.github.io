@@ -123,6 +123,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Stevan](https://jsfiddle.net/kgb9to0v/show/)
   - [Lena](https://jsfiddle.net/pd09L85v/show/)
 - Dance Party:
+  - [Emile](https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU)
   - [Jaron](https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0)
   - [Robbe](https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU)
   - [Dymian](https://studio.code.org/projects/dance/-EFq6ASl_BjrZQUPZMwvqInWTLrNNNnYdxfoLRrYZVI)
