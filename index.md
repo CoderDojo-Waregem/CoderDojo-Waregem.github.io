@@ -127,6 +127,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Jaron](https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0)
   - [Robbe](https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU)
   - [Dymian](https://studio.code.org/projects/dance/-EFq6ASl_BjrZQUPZMwvqInWTLrNNNnYdxfoLRrYZVI)
+  - [Jonas](https://studio.code.org/projects/dance/Hexbbi9je2CH-oLu6KQZ8-pFFOErYLRrCXkLe30JBCc)
 - [CodeCombat](https://www.codecombat.com)
 - Sonic Pi:
   - [Eigen muziek toevoegen](https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing)
