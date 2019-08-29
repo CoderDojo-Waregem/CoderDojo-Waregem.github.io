@@ -33,7 +33,7 @@ email: info@coderdojo-waregem.be
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
-- **zaterdag 21 septembe, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-21092019-66455272509))
+- **zaterdag 21 september, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-21092019-66455272509))
 - zaterdag 19 oktober, 09:30-12:30
 - zaterdag 16 november, 09:30-12:30
 - zaterdag 21 december, 09:30-12:30
