@@ -1,5 +1,9 @@
 # De sessie van 21 maart is afgelast wegens Coronavirus/Covid-19
 
+<br/>
+<br/>
+<br/>
+
 # Welkom bij CoderDojo Waregem
 
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
