@@ -1,3 +1,5 @@
+# <span style="color:red">De sessie van 21 maart is afgelast wegens Coronavirus/Covid-19</span>
+
 # Welkom bij CoderDojo Waregem
 
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
@@ -39,7 +41,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 21 december 2019, 09:30-12:30 ([foto's](https://photos.app.goo.gl/cujGuQhT2bKhdpjK6))
 - zaterdag 18 januari 2020, 09:30-12:30 ([foto's](https://photos.app.goo.gl/79ajuq89x7zSshQC6))
 - zaterdag 15 februari 2020, 09:30-12:30 ([foto's](https://photos.app.goo.gl/3qTt3xPEHDvjYM6D7))
-- **zaterdag 21 maart 2020, 09:30-12:30** ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-21032020-94846104251))
+- ~~zaterdag 21 maart 2020, 09:30-12:30~~ (Afgelast wegens Coronavirus/Covid-19)
 - zaterdag 18 april 2020, 09:30-12:30
 - zaterdag 9 mei 2020, 09:30-12:30
 - zaterdag 20 juni 2020, 09:30-12:30
