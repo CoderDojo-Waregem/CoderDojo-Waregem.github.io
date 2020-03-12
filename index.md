@@ -1,4 +1,4 @@
-# <span style="color:red">De sessie van 21 maart is afgelast wegens Coronavirus/Covid-19</span>
+# De sessie van 21 maart is afgelast wegens Coronavirus/Covid-19
 
 # Welkom bij CoderDojo Waregem
 
