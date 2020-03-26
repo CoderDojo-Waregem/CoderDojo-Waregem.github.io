@@ -1,4 +1,4 @@
-# De sessie van 21 maart is afgelast wegens Coronavirus/Covid-19
+# Inschrijvingen voor de komende sessie van 18 april blijven gesloten wegens Coronavirus/Covid-19
 
 <br/>
 <br/>
