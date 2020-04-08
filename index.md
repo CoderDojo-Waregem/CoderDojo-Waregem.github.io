@@ -1,4 +1,4 @@
-# Inschrijvingen voor de komende sessie van 18 april blijven gesloten wegens Coronavirus/Covid-19
+# Op 18 april wordt er een online CoderDojo georganiseerd! Inschrijven kan via de link op deze pagina
 
 <br/>
 <br/>
@@ -46,7 +46,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 18 januari 2020, 09:30-12:30 ([foto's](https://photos.app.goo.gl/79ajuq89x7zSshQC6))
 - zaterdag 15 februari 2020, 09:30-12:30 ([foto's](https://photos.app.goo.gl/3qTt3xPEHDvjYM6D7))
 - ~~zaterdag 21 maart 2020, 09:30-12:30~~ (Afgelast wegens Coronavirus/Covid-19)
-- zaterdag 18 april 2020, 09:30-12:30
+- **zaterdag 18 april 2020, 09:30-12:30** ([inschrijven online CoderDojo](https://www.eventbrite.co.uk/e/registratie-online-coderdojo-waregem-18042020-102241426860))
 - zaterdag 9 mei 2020, 09:30-12:30
 - zaterdag 20 juni 2020, 09:30-12:30
 
