@@ -1,4 +1,4 @@
-# Op 9 mei wordt er een online CoderDojo georganiseerd! Inschrijven kan via de link op deze pagina
+# Op 9 mei wordt er een online CoderDojo georganiseerd! Inschrijven kan via de link op deze pagina.
 
 <br/>
 <br/>
