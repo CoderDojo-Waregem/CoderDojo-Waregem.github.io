@@ -1,5 +1,7 @@
 # Welkom bij CoderDojo Waregem
 
+<br/>
+
 # Op 20 juni wordt er een online CoderDojo georganiseerd! Inschrijven kan via de link op deze pagina.
 
 <br/>
