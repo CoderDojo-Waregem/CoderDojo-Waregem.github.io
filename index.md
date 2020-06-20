@@ -202,7 +202,7 @@ Ons vierde CoderDojo-jaar in Waregem zullen we altijd blijven herinneren als het
 
 Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
 
-1. lees de opdracht in de opdrachtenbundel
+1. lees de opdracht in de [opdrachtenbundel](https://drive.google.com/file/d/1WOmG3AC3otDfvNTaM0rSmr7REuNt3H1c/view?usp=sharing)
 2. open het bijhorende project in Scratch
 3. druk op de knop "Bekijk van binnen"
 5. schrijf code die de opdracht uitvoert
@@ -213,6 +213,12 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
 Zoek alvast ook een naam voor je team en geef het door aan de coaches. Op ons interactief scorebord kan je de plaats van je team in de rangschikking bekijken.
+
+Op ons [interactief scorebord](https://docs.google.com/spreadsheets/d/19O0hAERtRXTJi9PPRLwajKA7XjhhkPpzQft8kRTE9x4/edit?usp=sharing) kan je de plaats van je team in de rangschikking bekijken.
+
+**Opgaven**
+
+De startprojecten voor de **Scratch Cup 2020** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/26991378/).
 
 ## Scratch Cup 2019
 
