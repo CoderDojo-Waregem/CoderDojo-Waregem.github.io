@@ -2,7 +2,7 @@
 
 <br/>
 
-**In september 2020 kunnen we onze activiteiten in de bib terug heropstarten.** Hieronder vind je de lijst van alle coderdojo-sessies voor seizoen 2020-2021. Je kan je [hier inschrijven](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19092020-116979963219) voor de eerste sessie op zaterdag 19 september 2020 (09:30-12:30).
+**In september 2020 kunnen we onze activiteiten in de bib terug heropstarten.** Hieronder vind je de lijst van alle coderdojo-sessies voor seizoen 2020-2021. Je kan je [hier inschrijven](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19092020-116979963219) voor de eerste sessie op **zaterdag 19 september 2020** (09:30-12:30).
 
 <br/>
 
