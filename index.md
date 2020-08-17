@@ -182,7 +182,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - Jan Sabbe
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
 - Floris Van Ongeval
-- Casper Vermeere
+- Casper Vermeeren
 - [Frederik Wilmotte](https://github.com/FrederikWilmotte)
 
 **Onze cook:**
