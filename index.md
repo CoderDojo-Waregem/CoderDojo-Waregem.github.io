@@ -2,10 +2,8 @@
 
 <br/>
 
-# Schrijf het alvast in jullie agenda. De eerste sessie van het nieuwe seizoen is op 19 september!
+**In september 2020 kunnen we onze activiteiten in de bib terug heropstarten.** Hieronder vind je de lijst van alle coderdojo-sessies voor seizoen 2020-2021. Je kan je [hier inschrijven](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19092020-116979963219) voor de eerste sessie op zaterdag 19 september 2020 (09:30-12:30).
 
-<br/>
-<br/>
 <br/>
 
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
@@ -40,6 +38,17 @@ email: info@coderdojo-waregem.be
 ## CoderWanneer ?
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
+
+- zaterdag 19 september 2020, 09:30-12:30 ([inschrijven](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19092020-116979963219))
+- zaterdag 17 oktober 2020, 09:30-12:30
+- zaterdag 21 november 2020, 09:30-12:30
+- zaterdag 19 december 2020, 09:30-12:30
+- zaterdag 16 januari 2021, 09:30-12:30
+- zaterdag 20 februari 2021, 09:30-12:30
+- zaterdag 20 maart 2021, 09:30-12:30
+- zaterdag 17 april 2021, 09:30-12:30
+- zaterdag 22 mei 2021, 09:30-12:30
+- zaterdag 19 juni 2021, 09:30-12:30
 
 - zaterdag 21 september 2019, 09:30-12:30 ([foto's](https://photos.app.goo.gl/LtJKBR6UWt7CMS138))
 - zaterdag 19 oktober 2019, 09:30-12:30 ([foto's](https://photos.app.goo.gl/tyh8BREN1uxeDv2x9))
