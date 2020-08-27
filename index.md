@@ -4,7 +4,7 @@
 
 **In september 2020 kunnen we onze activiteiten in de bib terug heropstarten.** Hieronder vind je de lijst van alle coderdojo-sessies voor seizoen 2020-2021. Je kan je [hier inschrijven](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-19092020-116979963219) voor de eerste sessie op **zaterdag 19 september 2020** (09:30-12:30).
 
-![groepsfoto](covid-regels.png)
+![COVID-19 regels](covid-regels.png)
 
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
 
