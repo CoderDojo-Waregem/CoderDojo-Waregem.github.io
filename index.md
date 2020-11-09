@@ -1,5 +1,7 @@
 # Welkom bij CoderDojo Waregem
 
+<br/>
+
 ## De volgende sessie (21 november) gaat online door
 
 <br/>
