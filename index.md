@@ -2,7 +2,7 @@
 
 <br/>
 
-## De volgende sessie (19 december) gaat online door. Inschrijven kan onderaan deze pagina
+## De volgende sessie (19 december) gaat online door! Inschrijven kan onderaan deze pagina.
 
 <br/>
 
