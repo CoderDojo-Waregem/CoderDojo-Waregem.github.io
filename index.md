@@ -2,7 +2,7 @@
 
 <br/>
 
-## De volgende sessie (20 februari) gaat online door! Inschrijven kan verder op deze pagina.
+## De volgende sessie (20 maart) gaat online door! Inschrijven kan verder op deze pagina.
 
 <br/>
 
@@ -47,7 +47,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 19 december 2020, 09:30-12:15 ([foto's](https://photos.app.goo.gl/mFLu8sTzodR5Qv518))
 - zaterdag 16 januari 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/fZyv3WPNxboFgz7T7))
 - zaterdag 20 februari 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/Wg4v8QvEcAAyT32r5))
-- zaterdag 20 maart 2021, 09:30-12:15
+- **zaterdag 20 maart 2021, 09:30-12:15** ([inschrijving](https://www.eventbrite.co.uk/e/142213621771))
 - zaterdag 17 april 2021, 09:30-12:15
 - zaterdag 22 mei 2021, 09:30-12:15
 - zaterdag 19 juni 2021, 09:30-12:15
