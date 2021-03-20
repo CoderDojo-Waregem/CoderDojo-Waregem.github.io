@@ -2,7 +2,7 @@
 
 <br/>
 
-## De volgende sessie (20 maart) gaat online door! Inschrijven kan verder op deze pagina.
+## De volgende sessie (17 april) gaat online door! Inschrijven kan verder op deze pagina.
 
 <br/>
 
