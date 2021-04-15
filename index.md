@@ -170,7 +170,12 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Eigen muziek toevoegen](https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing)
 - Unity
   - [Bouw minecraft in Unity](https://frederikwindey.blog/2017/08/15/bouw-minecraft-in-unity/) ([handleiding](BouwMinecraftInUnity.pdf), [assets](BouwMinecraftInUnity_Assets.zip))
-  
+- MIT App Inventor
+  - [Van Start met App Inventor](C:\Users\pdawyndt\OneDrive - UGent\dienstverlening\extern\coderdojo\app inventor\projecten\waar is de mol)
+  - [Hallo, Android!](https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing)
+  - [Dierengeluiden](https://drive.google.com/file/d/1ZxoQhYeiVreYOWxYXgWgOVT8frFE_1-0/view?usp=sharing)
+  - [Waar is het noorden?](https://drive.google.com/file/d/1V8yawKcHtbL72byvrZvMASP0KnjXsAEb/view?usp=sharing)
+  - [Waar is de mol?](https://drive.google.com/file/d/1j-l4kAlYz6s_dwsOuynCl7zouycexUPJ/view?usp=sharing)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
