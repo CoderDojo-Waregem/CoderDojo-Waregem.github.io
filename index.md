@@ -170,7 +170,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - Unity
   - [Bouw minecraft in Unity](https://frederikwindey.blog/2017/08/15/bouw-minecraft-in-unity/) ([handleiding](BouwMinecraftInUnity.pdf), [assets](BouwMinecraftInUnity_Assets.zip))
 - MIT App Inventor
-  - [Van Start met App Inventor](C:\Users\pdawyndt\OneDrive - UGent\dienstverlening\extern\coderdojo\app inventor\projecten\waar is de mol)
+  - [Van Start met App Inventor](https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing)
   - [Hallo, Android!](https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing)
   - [Dierengeluiden](https://drive.google.com/file/d/1ZxoQhYeiVreYOWxYXgWgOVT8frFE_1-0/view?usp=sharing)
   - [Waar is het noorden?](https://drive.google.com/file/d/1V8yawKcHtbL72byvrZvMASP0KnjXsAEb/view?usp=sharing)
