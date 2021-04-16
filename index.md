@@ -176,6 +176,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Dierengeluiden](https://drive.google.com/file/d/1ZxoQhYeiVreYOWxYXgWgOVT8frFE_1-0/view?usp=sharing)
   - [Waar is het noorden?](https://drive.google.com/file/d/1V8yawKcHtbL72byvrZvMASP0KnjXsAEb/view?usp=sharing)
   - [Waar is de mol?](https://drive.google.com/file/d/1j-l4kAlYz6s_dwsOuynCl7zouycexUPJ/view?usp=sharing)
+  - [Space Invaders](https://drive.google.com/file/d/1lMNDLpzJAex9nHM54W48zp6f9UyunONw/view?usp=sharing)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
