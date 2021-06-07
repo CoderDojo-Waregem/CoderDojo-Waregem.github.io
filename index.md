@@ -2,7 +2,7 @@
 
 <br/>
 
-## De volgende sessie (19 juni) gaat online door! Inschrijven kan verder op deze pagina.
+## De volgende sessie (19 juni) gaat in de bib door (en niet meer online)! Inschrijven kan verder op deze pagina.
 
 <br/>
 
