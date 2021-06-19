@@ -1,11 +1,5 @@
 # Welkom bij CoderDojo Waregem
 
-<br/>
-
-## De volgende sessie (19 juni) gaat in de bib door (en niet meer online)! Inschrijven kan verder op deze pagina.
-
-<br/>
-
 ![COVID-19 regels](covid-regels.png)
 
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
@@ -182,6 +176,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Waar is het noorden?](https://drive.google.com/file/d/1V8yawKcHtbL72byvrZvMASP0KnjXsAEb/view?usp=sharing)
   - [Waar is de mol?](https://drive.google.com/file/d/1j-l4kAlYz6s_dwsOuynCl7zouycexUPJ/view?usp=sharing)
   - [Space Invaders](https://drive.google.com/file/d/1lMNDLpzJAex9nHM54W48zp6f9UyunONw/view?usp=sharing)
+  - [Getal gokken voor 2 spelers](https://drive.google.com/file/d/1QKTCoFriLWsdN-H6zLj39KBcl3zJyOv_/view?usp=sharing)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
