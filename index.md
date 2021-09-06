@@ -24,14 +24,14 @@ Deel deze [video over CoderDojo](https://youtu.be/c7ROVdcyk7s) met je vrienden e
 
 *"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan info@coderdojo-waregem.be."*
 
-## CoderWaar ?
+## CoderWaar?
 
 [Bibliotheek Waregem](https://www.google.com/maps/place/50%C2%B052'08.0%22N+3%C2%B024'25.0%22E/@50.8688999,3.4063882,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.8688999!4d3.4069354?hl=en-GB)<br />
 Boekenplein 1<br />
 8790 Waregem<br />
 email: info@coderdojo-waregem.be
 
-## CoderWanneer ?
+## CoderWanneer?
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
