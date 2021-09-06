@@ -335,7 +335,7 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 - opgave 12 (maak zelf je eigen project)
 - opgave 13 (maak zelf je eigen project)
 
-## Bouw je mee ?
+## Bouw je mee?
 
 CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinderen op een speelse manier te leren programmeren. CoderDojo wordt volledig ondersteund door vrijwilligers en daarom zijn we ontzettend dankbaar voor elk financieel duwtje in de rug, dat onmiddellijk in de toekomst van onze kinderen kan geïnvesteerd worden. Wil je graag een financiële bijdrage leveren of heeft je bedrijf bijvoorbeeld laptops of tablets die niet meer gebruikt worden, neem dan contact op met info@coderdojo-waregem.be.
 
