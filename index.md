@@ -147,6 +147,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Parkeergarage - Firmata](files/snap/Ultrasound_HC_SR04Firmata.ino)
   - [Parkeergarage - Blocks](files/snap/Ultrasound_HC_SR04_blocks.xml)
 - Mbot
+  - [Ontwikkelomgeving online](https://ide.mblock.cc/)
   - [Installatieprogramma](http://www.mblock.cc/download/)
   - [Opdrachten](https://drive.google.com/open?id=0B0C5fMkcW0HMQXlTZXJGbVZtcXM)
   - Vlieg expeditie: dansende robots ([uitleg](https://drive.google.com/open?id=0B0C5fMkcW0HMM1dzd0UzWkRqMEU), [Scratch project](https://drive.google.com/open?id=0B0C5fMkcW0HMbG9UTXI3aWdnREk))
