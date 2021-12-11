@@ -38,7 +38,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 18 september 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/1yRdXEMP2bS87jEL8))
 - zaterdag 16 oktober 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/w1YZV38sSHhhLw1M8))
 - zaterdag 20 november 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/cVxrdx81pkaJVnD89))
-- zaterdag 11 december 2021, 09:30-12:15
+- zaterdag 11 december 2021, 09:30-12:15 ([foto's](https://photos.app.goo.gl/PakXRGjkiLaoszfU9))
 - zaterdag 15 januari 2022, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-15012022-bib-of-online-afhankelijk-van-maatregelen-225773844647))
 - zaterdag 19 februari 2022, 09:30-12:15
 - zaterdag 19 maart 2022, 09:30-12:15
