@@ -111,7 +111,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
   - [Minecraft](https://code.org/mc)
   - [Angry Birds](https://studio.code.org/hoc/1)
-  - [Run Marco / Run Sophia](https://www.allcancode.com/web/hourofcode)
+  - [Run Marco / Run Sophia](https://runmarco.allcancode.com)
   - [Frozen](https://code.org/api/hour/begin/frozen)
   - [Moana](http://partners.disney.com/hour-of-code?cds&cmp=vanity%7Cnatural%7Cus%7Cmoanahoc%7C)
   - [Flappy Bird](https://studio.code.org/flappy/1)
