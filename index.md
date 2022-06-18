@@ -163,6 +163,9 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - micro:bit op wielen ([Video](IMG_0924.mp4))
   - [mu editor](https://codewith.mu/)
 - websites bouwen
+  - nanonauten
+    - [boek](documents/coderdojo_boek_javascript.pdf)
+    - [bestanden](http://nano-tips.com/gamebeelden)
   - [Lukas](https://jsfiddle.net/q2ajgrz0/2/show/)
   - [Jens](https://jsfiddle.net/hzag0tk3/show/)
   - [Nikolina](https://jsfiddle.net/168k5uys/2/show/)
