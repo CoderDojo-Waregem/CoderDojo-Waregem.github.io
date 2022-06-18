@@ -164,7 +164,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [mu editor](https://codewith.mu/)
 - websites bouwen
   - nanonauten
-    - [boek]([documents/coderdojo_boek_javascript.pdf](https://drive.google.com/file/d/14-hUXNWMoX-IiGLeM3km5QOUTt0Zrn7T/view?usp=sharing))
+    - [boek](https://drive.google.com/file/d/14-hUXNWMoX-IiGLeM3km5QOUTt0Zrn7T/view?usp=sharing)
     - [bestanden](http://nano-tips.com/gamebeelden)
   - [Lukas](https://jsfiddle.net/q2ajgrz0/2/show/)
   - [Jens](https://jsfiddle.net/hzag0tk3/show/)
