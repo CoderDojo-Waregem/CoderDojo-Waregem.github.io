@@ -1,7 +1,5 @@
 # Welkom bij CoderDojo Waregem
 
-<!-- ![COVID-19 regels](covid-regels.jpg) -->
-
 CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar waar ze **in groep leren programmeren**. Ben je minstens 7 jaar en jonger dan 18 jaar? Hou je van computers en zelf (leren) programmeren? Dan is CoderDojo helemaal iets voor jou! Leer alles over programmeren en ga er onmiddellijk mee aan de slag. Geen saaie theorielessen maar **gewoon doen**: spelletjes bedenken, apps ontwikkelen, robots besturen en websites maken. Je hebt helemaal **geen voorkennis nodig**, maar we vragen wel om bij voorkeur een eigen laptop mee te brengen.
 
 Eén zaterdagvoormiddag in de maand organiseert CoderDojo Waregem **gratis workshops** (doe-het-zelf lessen) voor jongens en meisjes van 7 tot 17 jaar. Onze Dojo vind je in de bibliotheek van Waregem en wordt ondersteund door een enthousiast team van coaches: **vrijwilligers** die de workshops voorbereiden en begeleiden. Ze **leggen uit, doen voor, leren aan en stimuleren fantasie, creativiteit en de ontwikkeling van programmeervaardigheden**. Ouders zijn meer dan welkom als ze dat willen. Kinderen tot 12 jaar moeten bij hun eerste deelnames altijd vergezeld zijn van een volwassene.
@@ -41,8 +39,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 17 december 2022, 09:30-12:15 ([foto's](https://photos.app.goo.gl/Hi5iiyyWKHDRs5AeA))
 - zaterdag 21 januari 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/rf2jDHTWDHp9mLp68))
 - zaterdag 25 februari 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/uA3Sh8ob2MQ54BEz7))
-- zaterdag 18 maart 2023, 09:30-12:15 ([inschrijving](https://www.eventbrite.be/e/registratie-coderdojo-waregem-18032023-551470772927))
-- zaterdag 15 april 2023, 09:30-12:15
+- zaterdag 18 maart 2023, 09:30-12:15
+- zaterdag 15 april 2023, 09:30-12:15 ([inschrijving](https://www.eventbrite.be/e/registratie-coderdojo-waregem-15042023-592930790957))
 - zaterdag 13 mei 2023, 09:30-12:15
 - zaterdag 17 juni 2023, 09:30-12:15
 
