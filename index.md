@@ -124,6 +124,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Frozen](https://code.org/api/hour/begin/frozen)
   - [Moana](http://partners.disney.com/hour-of-code?cds&cmp=vanity%7Cnatural%7Cus%7Cmoanahoc%7C)
   - [Flappy Bird](https://studio.code.org/flappy/1)
+  - Lightbot
+    - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/))
 - [code.org](https://code.org/)
   - [cursus 1](https://studio.code.org/s/course1)  
   - [cursus 2](https://studio.code.org/s/course2)  
@@ -216,7 +218,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 **Onze coaches:**
 
 - [Peter Dawyndt](https://github.com/pdawyndt)
-- [Mattijs Eggermont](https://github.com/mattijse)
+- [Mattijs Eggermont](https://github.com/MattijsE)
 - Christophe Fauconnier
 - [Michel Lambrecht](https://github.com/MichelLambrecht)
 - Mariam Ogadze
