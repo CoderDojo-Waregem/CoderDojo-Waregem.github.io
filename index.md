@@ -4,7 +4,7 @@ CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar w
 
 Eén zaterdagvoormiddag in de maand organiseert CoderDojo Waregem **gratis workshops** (doe-het-zelf lessen) voor jongens en meisjes van 7 tot 17 jaar. Onze Dojo vind je in de bibliotheek van Waregem en wordt ondersteund door een enthousiast team van coaches: **vrijwilligers** die de workshops voorbereiden en begeleiden. Ze **leggen uit, doen voor, leren aan en stimuleren fantasie, creativiteit en de ontwikkeling van programmeervaardigheden**. Ouders zijn meer dan welkom als ze dat willen. Kinderen tot 12 jaar moeten bij hun eerste deelnames altijd vergezeld zijn van een volwassene.
 
-![groepsfoto](20161911_groepsfoto.jpg)
+![groepsfoto](assets/20161911_groepsfoto.jpg)
 
 De regels van CoderDojo zijn heel eenvoudig:
 
@@ -169,7 +169,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - micro:bit
   - eerste stapjes ([blockly](https://drive.google.com/open?id=0B_FlIjXoGUrSaDlMNk5ZdS00MVE), [python](https://drive.google.com/open?id=0B_FlIjXoGUrSTGRPYTdNTXQ2OVk))
   - [ninja:bit](https://drive.google.com/open?id=11gVywUCyb3CfutYT0vQAWILB1tSIDXch)
-  - micro:bit op wielen ([Video](IMG_0924.mp4))
+  - micro:bit op wielen ([Video](assets/IMG_0924.mp4))
   - [mu editor](https://codewith.mu/)
 - websites bouwen
   - nanonauten
@@ -252,8 +252,8 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 ## CoderPress
 
-- [Programmeren is kinderspel](20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
-- [Programmeren voor de jeugd met Coderdojo](20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
+- [Programmeren is kinderspel](assets/20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
+- [Programmeren voor de jeugd met Coderdojo](assets/20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
 ## Scratch Cup 2020
 
