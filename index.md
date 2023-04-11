@@ -125,7 +125,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Moana](http://partners.disney.com/hour-of-code?cds&cmp=vanity%7Cnatural%7Cus%7Cmoanahoc%7C)
   - [Flappy Bird](https://studio.code.org/flappy/1)
   - Lightbot
-    - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/))
+    - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/)) via de knop 'Select File'
 - [code.org](https://code.org/)
   - [cursus 1](https://studio.code.org/s/course1)  
   - [cursus 2](https://studio.code.org/s/course2)  
