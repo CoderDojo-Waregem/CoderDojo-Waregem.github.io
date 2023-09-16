@@ -196,6 +196,12 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Sander](https://jsfiddle.net/zmt05odp/1/show)
   - [Ludovic](https://jsfiddle.net/m35s1hfL/1/show)
   - [Lukas](https://jsfiddle.net/0aydvkhp/show)
+  - 2023
+    - [Matteo](https://jsfiddle.net/wujog4rL/14/show)
+    - [Lars](https://jsfiddle.net/Larsdec/su4o5wz8/1/show)
+    - [Yavin](https://jsfiddle.net/G0DL10N/u24np6og/4/show)
+    - [Matties](https://jsfiddle.net/cwby2g9x/show)
+    - [Raf](https://jsfiddle.net/uLxbotzc/show)
 - Dance Party:
   - [Emile](https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU)
   - [Jaron](https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0)
