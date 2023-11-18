@@ -35,7 +35,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 - zaterdag 16 september 2023, 09:30-12:15 ([foto's]([https://www.eventbrite.be/e/registratie-coderdojo-waregem-16092023-658308206567](https://photos.app.goo.gl/o4R6NTcuz9nuuDxYA)))
 - zaterdag 14 oktober 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/yyKbFMUCTQZBCTf2A))
-- zaterdag 18 november 2023, 09:30-12:15
+- zaterdag 18 november 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/XJ2qKaePxVWKgNUs8))
 - zaterdag 16 december 2023, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-16122023-753167693847))
 - zaterdag 20 januari 2024, 09:30-12:15
 - zaterdag 17 februari 2024, 09:30-12:15
