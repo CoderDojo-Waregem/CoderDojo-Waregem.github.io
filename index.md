@@ -247,7 +247,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 
 **Onze cook:**
 
-- Pieter Dewolf
+- Bert Vermeulen
 
 Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen liet vloeien aan de vooravond van de eerste CoderDojo in Waregem:
 
