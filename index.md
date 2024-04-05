@@ -41,7 +41,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 17 februari 2024, 09:30-12:15 ([foto's](https://photos.app.goo.gl/eEVTrkDkttkoygXc6))
 - zaterdag 16 maart 2024, 09:30-12:15 ([foto's](https://photos.app.goo.gl/dP5xPp1FkMM6uTYq6))
 - zaterdag 20 april 2024, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-20042024-860815280677))
-- zaterdag 18 mei 2024, 09:30-12:15
+- zaterdag 18 mei 2024, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-18052024-877841466457))
 - zaterdag 15 juni 2024, 09:30-12:15
 
 - zaterdag 24 september 2022, 09:30-12:15 ([foto's](https://photos.app.goo.gl/GcsNqWnG1ui8Tu358))
