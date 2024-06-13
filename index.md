@@ -286,6 +286,27 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - [Programmeren is kinderspel](assets/20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
 - [Programmeren voor de jeugd met Coderdojo](assets/20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
+## Scratch Cup 2024
+
+Om ons achtste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
+
+Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
+
+1. lees de opdracht in de opdrachtenbundel
+2. open het bijhorende project in Scratch
+3. druk op de knop "Bekijk van binnen"
+4. druk op de knop "Remix" (ongeveer op dezelfde plaats als de knop "Bekijk van binnen")
+5. schrijf de nodige scripts die de opdracht uitvoeren
+6. laat je resultaat beoordelen door één van de CoderDojo coaches
+    * correct: voer de volgende opdracht uit vanaf stap 1
+    * niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+ 
+Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
+
+**Opgaven**
+
+De startprojecten voor de **Scratch Cup 2024** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/35338193/).
+
 ## Scratch Cup 2020
 
 Ons vierde CoderDojo-jaar in Waregem zullen we altijd blijven herinneren als het coronajaar waarin we voor het eerst online gingen. Om het werkjaar feestelijk af te sluiten, organiseren we een Scratch wedstrijd. Dit jaar met als thema "Grote Kunst voor Kleine Coders". We vormen teams van telkens twee of drie ninja's/ouders die het tegen de klok en tegen elkaar opnemen. De uitdaging is eenvoudig: elk team krijgt een reeks opdrachten die moeten opgelost worden in Scratch.
