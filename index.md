@@ -20,14 +20,14 @@ Deel deze [video over CoderDojo](https://youtu.be/7XQOVKd-vVI) met je vrienden e
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7XQOVKd-vVI?cc_load_policy=1&hl=nl&cc_lang_pref=nl" frameborder="0" allowfullscreen></iframe></p>
 
-*"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan info@coderdojo-waregem.be."*
+*"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be)."*
 
 ## CoderWaar?
 
 [Bibliotheek Waregem](https://www.google.com/maps/place/50%C2%B052'08.0%22N+3%C2%B024'25.0%22E/@50.8688999,3.4063882,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.8688999!4d3.4069354?hl=en-GB)<br />
 Boekenplein 1<br />
 8790 Waregem<br />
-email: info@coderdojo-waregem.be
+email: [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be)
 
 ## CoderWanneer?
 
@@ -407,7 +407,7 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 ## Bouw je mee?
 
-CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinderen op een speelse manier te leren programmeren. CoderDojo wordt volledig ondersteund door vrijwilligers en daarom zijn we ontzettend dankbaar voor elk financieel duwtje in de rug, dat onmiddellijk in de toekomst van onze kinderen kan geïnvesteerd worden. Wil je graag een financiële bijdrage leveren of heeft je bedrijf bijvoorbeeld laptops of tablets die niet meer gebruikt worden, neem dan contact op met info@coderdojo-waregem.be.
+CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinderen op een speelse manier te leren programmeren. CoderDojo wordt volledig ondersteund door vrijwilligers en daarom zijn we ontzettend dankbaar voor elk financieel duwtje in de rug, dat onmiddellijk in de toekomst van onze kinderen kan geïnvesteerd worden. Wil je graag een financiële bijdrage leveren of heeft je bedrijf bijvoorbeeld laptops of tablets die niet meer gebruikt worden, neem dan contact op met [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be).
 
 > *Niemand had de moeite genomen om me te zeggen dat het onmogelijk was. Dus ging ik naar huis en deed het gewoon.*
 
