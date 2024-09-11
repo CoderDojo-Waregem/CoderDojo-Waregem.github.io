@@ -250,12 +250,11 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - [Mattijs Eggermont](https://github.com/MattijsE)
 - Christophe Fauconnier
 - [Michel Lambrecht](https://github.com/MichelLambrecht)
-- Mariam Ogadze
 - Jan Sabbe
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
-- Floris Van Ongeval
 - [Casper Vermeeren](https://github.com/CasperThePancake)
-- [Frederik Wilmotte](https://github.com/FrederikWilmotte)
+- Rune Neirynck
+- Floris Ducatteeuw
 
 **Onze cook:**
 
