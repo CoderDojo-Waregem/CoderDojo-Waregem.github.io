@@ -16,7 +16,7 @@ De regels van CoderDojo zijn heel eenvoudig:
 - laat het aan je ouders weten als je het lokaal moet verlaten
 - help de eet-en-drink-stand proper te houden en gooi je afval in de prullenbak
 
-Deel deze [video over CoderDojo](https://youtu.be/c7ROVdcyk7s) met je vrienden en klasgenoten als je hen over CoderDojo wil vertellen.
+Deel deze [video over CoderDojo](https://youtu.be/7XQOVKd-vVI) met je vrienden en klasgenoten als je hen over CoderDojo wil vertellen.
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7XQOVKd-vVI" frameborder="0" allowfullscreen></iframe></p>
 
