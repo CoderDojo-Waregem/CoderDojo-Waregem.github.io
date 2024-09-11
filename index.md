@@ -18,7 +18,7 @@ De regels van CoderDojo zijn heel eenvoudig:
 
 Deel deze [video over CoderDojo](https://youtu.be/7XQOVKd-vVI) met je vrienden en klasgenoten als je hen over CoderDojo wil vertellen.
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/7XQOVKd-vVI" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/7XQOVKd-vVI?cc_load_policy=1&hl=nl&cc_lang_pref=nl" frameborder="0" allowfullscreen></iframe></p>
 
 *"Er worden regelmatig foto's of video's genomen tijdens de Dojo's. Door inschrijving en deelname aan de CoderDojo-activiteiten, gaat U er als ouder of voogd mee akkoord dat er beeldmateriaal kan genomen worden van uw kinderen en dat dit beeldmateriaal kan gebruikt worden voor publicatie in het kader van bekendmaking/marketing van CoderDojo. Indien U hiermee niet akkoord bent, kunt U dit laten weten aan info@coderdojo-waregem.be."*
 
