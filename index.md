@@ -44,6 +44,10 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 10 mei 2025, 09:30-12:15
 - zaterdag 14 juni 2025, 09:30-12:15
 
+<details>
+
+<summary>Voorbije sessies</summary>
+
 - zaterdag 16 september 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/o4R6NTcuz9nuuDxYA))
 - zaterdag 14 oktober 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/yyKbFMUCTQZBCTf2A))
 - zaterdag 18 november 2023, 09:30-12:15 ([foto's](https://photos.app.goo.gl/XJ2qKaePxVWKgNUs8))
@@ -130,6 +134,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 15 april 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/inKkNTPqBPbWQ61j9))
 - zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
 - zaterdag 17 juni 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/rHCSh8MN7smQqMzPA))
+
+</details>
 
 ## CoderKata
 
