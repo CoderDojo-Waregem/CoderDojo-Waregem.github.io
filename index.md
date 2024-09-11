@@ -254,7 +254,7 @@ Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word c
 - [Dominiek Vandewalle](https://github.com/DominiekVandewalle)
 - [Casper Vermeeren](https://github.com/CasperThePancake)
 - Rune Neirynck
-- Floris Ducatteeuw
+- Joris Ducatteeuw
 
 **Onze cook:**
 
