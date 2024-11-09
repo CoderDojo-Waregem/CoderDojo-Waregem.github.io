@@ -214,6 +214,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
     - [Matties](https://jsfiddle.net/cwby2g9x/show)
     - [Raf](https://jsfiddle.net/uLxbotzc/show)
 - [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
+- [SVG Viewer](https://www.svgviewer.dev/)
 - Dance Party:
   - [Emile](https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU)
   - [Jaron](https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0)
