@@ -235,6 +235,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
     - [Ylan](https://jsfiddle.net/0w32kjuv)
     - [Sander & Kevin](https://jsfiddle.net/6m0a5dwz/1)
     - [Leyla](https://jsfiddle.net/4qrp71cs)
+    - [Peter](https://jsfiddle.net/e312x5zk/1)
 - [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
 - [SVG Viewer](https://www.svgviewer.dev/)
 - Dance Party:
