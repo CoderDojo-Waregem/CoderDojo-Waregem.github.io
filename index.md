@@ -41,7 +41,6 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 18 oktober 2025, 09:30-12:15
 - zaterdag 15 november 2025, 09:30-12:15
 - zaterdag 20 december 2025, 09:30-12:15
-
 - zaterdag 17 januari 2026, 09:30-12:15
 - zaterdag 21 februari 2026, 09:30-12:15
 - zaterdag 14 maart 2026, 09:30-12:15
