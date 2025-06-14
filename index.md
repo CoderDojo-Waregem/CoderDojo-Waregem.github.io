@@ -37,7 +37,6 @@ email: [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be)
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
-<!-- 
 - zaterdag 20 september 2025, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-20092025-1407504837859))
 - zaterdag 18 oktober 2025, 09:30-12:15
 - zaterdag 15 november 2025, 09:30-12:15
@@ -49,7 +48,6 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 18 april 2026, 09:30-12:15
 - zaterdag 23 mei 2026, 09:30-12:15
 - zaterdag 20 juni 2026, 09:30-12:15
--->
 
 - zaterdag 21 september 2024, 09:30-12:15 ([foto's](https://photos.app.goo.gl/jCTL2SUJwzKUUx129))
 - zaterdag 12 oktober 2024, 09:30-12:15 ([foto's](https://photos.app.goo.gl/4rs7eafwdmrpSPf3A))
@@ -311,6 +309,25 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 - [Programmeren is kinderspel](assets/20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
 - [Programmeren voor de jeugd met Coderdojo](assets/20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
+
+## Scratch Cup 2025
+
+Om ons achtste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
+
+Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
+
+1. lees de opdracht in de opdrachtenbundel
+2. open het bijhorende project in Scratch
+3. druk op de knop "Bekijk van binnen"
+4. druk op de knop "Remix" (ongeveer op dezelfde plaats als de knop "Bekijk van binnen")
+5. schrijf de nodige scripts die de opdracht uitvoeren
+6. laat je resultaat beoordelen door één van de CoderDojo coaches
+    * correct: voer de volgende opdracht uit vanaf stap 1
+    * niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+
+**Opgaven**
+
+De startprojecten voor de **Scratch Cup 2025** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/50626221).
 
 ## Scratch Cup 2024
 
