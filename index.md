@@ -37,7 +37,7 @@ email: [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be)
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
-- zaterdag 20 september 2025, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-20092025-1407504837859))
+- zaterdag 20 september 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/6vi15764rojwVjJg9))
 - zaterdag 18 oktober 2025, 09:30-12:15 ([inschrijving](https://www.eventbrite.co.uk/e/registratie-coderdojo-waregem-18102025-1660510053269))
 - zaterdag 15 november 2025, 09:30-12:15
 - zaterdag 20 december 2025, 09:30-12:15
@@ -457,4 +457,5 @@ CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinde
 > *Niemand had de moeite genomen om me te zeggen dat het onmogelijk was. Dus ging ik naar huis en deed het gewoon.*
 
 **Duke Ellington** (*over hoe hij in één weekend de muziek voor een volledige musical schreef*)
+
 
