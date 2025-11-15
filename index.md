@@ -323,6 +323,15 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - de score gaat met 100 omhoog als je op spatie drukt
 - elke seconde verandert de cookie van kleur
 
+**[Doolhof](https://scratch.mit.edu/projects/11710850)**
+
+- de lijn achter de kat is blauw
+- de appel verschijnt elke 10 seconden op een andere plaats
+- de website heeft de naam van je team
+- de weg van de  ingang naar de uitgang door het doolhof loopt enkel rechtdoor gaan
+
+
+
 ## Scratch Cup 2025
 
 Om ons negende CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
