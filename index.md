@@ -309,9 +309,17 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - [Programmeren is kinderspel](assets/20161125_kw.pdf) (Krant van West-Vlaanderen, editie Waregem, vrijdag 25 november 2016)
 - [Programmeren voor de jeugd met Coderdojo](assets/20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
+## Scratch Cup Deluxe Tryout
+
+### [Flappy Bird](https://scratch.mit.edu/projects/17432735)
+
+- alle buizen staan in het midden
+- vogel verandert van kleur als je door een buis vliegt
+- verander de tekst “Created by a Priestnall Student” onderaan het scherm door de tekst "Gemaakt door CoderDojo Waregem”
+
 ## Scratch Cup 2025
 
-Om ons achtste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
+Om ons negende CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
 Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekken. Om een opdracht uit te voeren ga je als volgt te werk:
 
