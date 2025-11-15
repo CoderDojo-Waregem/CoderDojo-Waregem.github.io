@@ -335,11 +335,18 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - de peddel neemt de volledig hoogte van het scherm in
 - de achtergrond is geel en de peddels zijn blauw
 
-**[Zeeslag](https://scratch.mit.edu/projects/500954879 )**
+**[Zeeslag](https://scratch.mit.edu/projects/500954879)**
 
 - als een schot raakt is dan verschijnt er een vuurbal
 - de tegenstander kan je niet raken (hij mist ook als het raak is)
 - de boten van de tegenstander zijn zichtbaar
+- Je hebt maar 1 torpedo per beurt
+
+**[Google Chrome No Internet Game](https://scratch.mit.edu/projects/189057541)**
+
+- alle cactussen hebben een vrolijke kleur (in plaats van zwart-wit)
+- cactussen komen veel trager (waardoor spelletje makkelijker wordt)
+- je kan door de grote cactus lopen zonder te sterven
 
 ## Scratch Cup 2025
 
