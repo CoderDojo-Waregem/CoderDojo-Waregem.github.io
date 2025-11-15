@@ -311,7 +311,7 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 ## Scratch Cup Deluxe Tryout
 
-### [Flappy Bird](https://scratch.mit.edu/projects/17432735)
+**[Flappy Bird](https://scratch.mit.edu/projects/17432735)**
 
 - alle buizen staan in het midden
 - vogel verandert van kleur als je door een buis vliegt
