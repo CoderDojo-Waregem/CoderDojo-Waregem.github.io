@@ -336,6 +336,12 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - de achtergrond is geel en de peddels zijn blauw
 - de score beweegt van links naar rechts binnen het vakje met de score
 
+**[Zeeslag](https://scratch.mit.edu/projects/500954879 )**
+
+- als een schot raakt is dan verschijnt er een vuurbal
+- de tegenstander kan je niet raken (hij mist ook als het raak is)
+- de boten van de tegenstander zijn zichtbaar
+
 ## Scratch Cup 2025
 
 Om ons negende CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
