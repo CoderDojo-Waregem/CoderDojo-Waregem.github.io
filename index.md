@@ -334,7 +334,6 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 
 - de peddel neemt de volledig hoogte van het scherm in
 - de achtergrond is geel en de peddels zijn blauw
-- de score beweegt van links naar rechts binnen het vakje met de score
 
 **[Zeeslag](https://scratch.mit.edu/projects/500954879 )**
 
