@@ -330,7 +330,11 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - de website heeft de naam van je team
 - de weg van de  ingang naar de uitgang door het doolhof loopt enkel rechtdoor gaan
 
+**[Pong](https://scratch.mit.edu/projects/2718643)**
 
+- de peddel neemt de volledig hoogte van het scherm in
+- de achtergrond is geel en de peddels zijn blauw
+- de score beweegt van links naar rechts binnen het vakje met de score
 
 ## Scratch Cup 2025
 
