@@ -192,8 +192,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
 - [Scratch For Arduino](http://s4a.cat)
   - [Installatiebestanden](https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link)
-  - [Parkeergarage - Firmata](files/snap/Ultrasound_HC_SR04Firmata.ino)
-  - [Parkeergarage - Blocks](files/snap/Ultrasound_HC_SR04_blocks.xml)
+  - [Parkeergarage - Firmata](assets/snap/Ultrasound_HC_SR04Firmata.ino)
+  - [Parkeergarage - Blocks](assets/snap/Ultrasound_HC_SR04_blocks.xml)
 - Scratch & Artificiële Intelligentie (AI)
   - stap 1: train je model
     - [Teachable Machine](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteachablemachine.withgoogle.com%2F&data=04%7C01%7CPeter.Dawyndt%40ugent.be%7Cbef7b70a33fb4469562508da01bae5e1%7Cd7811cdeecef496c8f91a1786241b99c%7C1%7C0%7C637824200636798315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=HezCllknHhml%2Bmu23z5D1hNFwRKioQjqKQAm9SyLckw%3D&reserved=0)
@@ -250,7 +250,6 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - Sonic Pi:
   - [Eigen muziek toevoegen](https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing)
 - Unity
-  - [Bouw minecraft in Unity](https://frederikwindey.blog/2017/08/15/bouw-minecraft-in-unity/) ([handleiding](BouwMinecraftInUnity.pdf), [assets](BouwMinecraftInUnity_Assets.zip))
 - MIT App Inventor
   - [Van Start met App Inventor](https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing)
   - [Hallo, Android!](https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing)
