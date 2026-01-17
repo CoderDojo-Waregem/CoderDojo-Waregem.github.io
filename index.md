@@ -164,10 +164,10 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - Lightbot
     - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/)) via de knop 'Select File'
 - [code.org](https://code.org/)
-  - [cursus 1](https://studio.code.org/s/course1)  
-  - [cursus 2](https://studio.code.org/s/course2)  
-  - [cursus 3](https://studio.code.org/s/course3)  
-  - [cursus 4](https://studio.code.org/s/course4)  
+  - [cursus 1](https://studio.code.org/s/course1)
+  - [cursus 2](https://studio.code.org/s/course2)
+  - [cursus 3](https://studio.code.org/s/course3)
+  - [cursus 4](https://studio.code.org/s/course4)
 - [Scratch Junior](http://www.scratchjr.org/)
   - [Overzicht van de blokken](https://drive.google.com/file/d/0B_FlIjXoGUrScUNtVWNfOHlKWTA/view?usp=sharing&resourcekey=0-VneIarW6lKkxn_4zS6KAsA)
   - [Door de stad rijden](https://drive.google.com/file/d/0B_FlIjXoGUrSdkt1Q2o0MlhpYWs/view?usp=sharing&resourcekey=0-PrKmyKzQae7xzC_69cxeVw)
