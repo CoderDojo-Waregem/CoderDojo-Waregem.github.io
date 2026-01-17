@@ -155,11 +155,11 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - [Hour of Code](https://code.org/learn)
   - [Dance Party](https://code.org/dance)
   - [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
-  - [Minecraft](https://code.org/mc)
+  - [Minecraft](https://studio.code.org/courses/mc/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Angry Birds](https://studio.code.org/hoc/1)
   - [Run Marco / Run Sophia](https://runmarco.allcancode.com)
   - [Frozen](https://code.org/api/hour/begin/frozen)
-  - [Moana](http://partners.disney.com/hour-of-code?cds&cmp=vanity%7Cnatural%7Cus%7Cmoanahoc%7C)
+  - [Moana](https://partners.disney.com/hour-of-code/wayfinding-with-code)
   - [Flappy Bird](https://studio.code.org/flappy/1)
   - Lightbot
     - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/)) via de knop 'Select File'
