@@ -154,11 +154,11 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 
 - [Hour of Code](https://code.org/learn)
   - [Dance Party](https://code.org/dance)
-  - [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
+  - [Star Wars](https://studio.code.org/courses/starwarsblocks/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Minecraft](https://studio.code.org/courses/mc/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Angry Birds](https://studio.code.org/hoc/1)
   - [Run Marco / Run Sophia](https://runmarco.allcancode.com)
-  - [Frozen](https://code.org/api/hour/begin/frozen)
+  - [Frozen](https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Moana](https://partners.disney.com/hour-of-code/wayfinding-with-code)
   - [Flappy Bird](https://studio.code.org/flappy/1)
   - Lightbot
