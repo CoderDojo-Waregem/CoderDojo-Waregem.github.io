@@ -44,7 +44,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 17 januari 2026, 09:30-12:15 ([foto's](https://photos.app.goo.gl/sYhbmJaa4P2NkJnT8))
 - zaterdag 21 februari 2026, 09:30-12:15
 - zaterdag 14 maart 2026, 09:30-12:15 ([inschrijving](https://www.eventbrite.com/e/registratie-coderdojo-waregem-14032026-1983255144525))
-- zaterdag 18 april 2026, 09:30-12:15
+- zaterdag 18 april 2026, 09:30-12:15 ([inschrijving](https://www.eventbrite.com/e/registratie-coderdojo-waregem-18042026-1984386666939))
 - zaterdag 23 mei 2026, 09:30-12:15
 - zaterdag 20 juni 2026, 09:30-12:15
 
@@ -495,6 +495,7 @@ CoderDojo Waregem wil graag investeren in educatief materiaal dat helpt om kinde
 > *Niemand had de moeite genomen om me te zeggen dat het onmogelijk was. Dus ging ik naar huis en deed het gewoon.*
 
 **Duke Ellington** (*over hoe hij in één weekend de muziek voor een volledige musical schreef*)
+
 
 
 
