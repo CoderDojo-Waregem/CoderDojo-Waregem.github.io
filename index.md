@@ -4,7 +4,7 @@ CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar w
 
 Eén zaterdagvoormiddag in de maand organiseert CoderDojo Waregem **gratis workshops** (doe-het-zelf lessen) voor jongens en meisjes van 7 tot 17 jaar. Onze Dojo vind je in de bibliotheek van Waregem en wordt ondersteund door een enthousiast team van coaches: **vrijwilligers** die de workshops voorbereiden en begeleiden. Ze **leggen uit, doen voor, leren aan en stimuleren fantasie, creativiteit en de ontwikkeling van programmeervaardigheden**. Ouders zijn meer dan welkom als ze dat willen. Kinderen tot 12 jaar moeten bij hun eerste deelnames altijd vergezeld zijn van een volwassene.
 
-![groepsfoto](assets/20161911_groepsfoto.jpg)
+![groepsfoto](assets/20260523_groepsfoto.jpg)
 
 De regels van CoderDojo zijn heel eenvoudig:
 
