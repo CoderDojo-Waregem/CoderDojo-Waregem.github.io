@@ -37,6 +37,17 @@ email: [info@coderdojo-waregem.be](mailto:nfo@coderdojo-waregem.be)
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
+- zaterdag 19 september 2026, 09:30-12:15
+- zaterdag 17 oktober 2026, 09:30-12:15
+- zaterdag 21 november 2026, 09:30-12:15
+- zaterdag 12 december 2026, 09:30-12:15
+- zaterdag 23 januari 2027, 09:30-12:15
+- zaterdag 20 februari 2027, 09:30-12:15
+- zaterdag 27 maart 2027, 09:30-12:15
+- zaterdag 17 april 2027, 09:30-12:15
+- zaterdag 22 mei 2027, 09:30-12:15
+- zaterdag 26 juni 2027, 09:30-12:15
+
 - zaterdag 20 september 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/6vi15764rojwVjJg9))
 - zaterdag 18 oktober 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/64nWQE6JJF6H99Xy6))
 - zaterdag 15 november 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/s5Rq2c48tr1VpJceA))
@@ -45,7 +56,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 21 februari 2026, 09:30-12:15 ([foto's](https://photos.app.goo.gl/smBKkSFVPi2T2TQT6))
 - zaterdag 14 maart 2026, 09:30-12:15 ([foto's](https://photos.app.goo.gl/oK7CenaZq6vraPaY8))
 - zaterdag 18 april 2026, 09:30-12:15 ([foto's](https://photos.app.goo.gl/BqYBPgsdJxSTxSFE8))
-- 🎉 **10 JAAR CDJ WAREGEM FEESTEDITIE - zaterdag 23 mei 2026, 09:30-12:15** 🎉 ([foto's](https://photos.app.goo.gl/C7ic2kVywusGHyiHA))
+- 🎉 10 JAAR CDJ WAREGEM FEESTEDITIE - zaterdag 23 mei 2026, 09:30-12:15 🎉 ([foto's](https://photos.app.goo.gl/C7ic2kVywusGHyiHA))
 - zaterdag 20 juni 2026, 09:30-12:15 ([inschrijving](https://www.eventbrite.com/e/registratie-coderdojo-waregem-20062026-1988763802068))
 
 - zaterdag 21 september 2024, 09:30-12:15 ([foto's](https://photos.app.goo.gl/jCTL2SUJwzKUUx129))
