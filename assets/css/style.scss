@@ -3,16 +3,6 @@
 
 @import "{{ site.theme }}";
 
-html {
-  scroll-padding-top: 170px;
-}
-
-section h1,
-section h2,
-section h3 {
-  scroll-margin-top: 170px;
-}
-
 .site-actions {
   display: flex;
   flex-wrap: wrap;
@@ -85,44 +75,28 @@ summary:focus {
   display: none;
 }
 
+header {
+  position: static;
+  box-sizing: border-box;
+}
+
 section {
-  margin-top: 230px;
+  margin-top: 1.25rem;
 }
 
 nav {
-  top: 260px;
+  position: absolute;
+  top: 1.25rem;
 }
 
 @media print, screen and (max-width: 1060px) {
   section {
-    margin-top: 250px;
+    margin-top: 1.25rem;
   }
 }
 
 @media print, screen and (max-width: 720px) {
-  html {
-    scroll-padding-top: 110px;
-  }
-
-  section h1,
-  section h2,
-  section h3 {
-    scroll-margin-top: 110px;
-  }
-
   section {
-    margin-top: 90px;
-  }
-}
-
-@media print, screen and (max-width: 480px) {
-  html {
-    scroll-padding-top: 0;
-  }
-
-  section h1,
-  section h2,
-  section h3 {
-    scroll-margin-top: 0;
+    margin-top: 1.25rem;
   }
 }
