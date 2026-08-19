@@ -6,7 +6,7 @@ Eén zaterdagvoormiddag in de maand organiseert CoderDojo Waregem **gratis works
 
 <div class="site-actions">
 <a href="#coderwanneer">Bekijk de komende data</a>
-<a href="mailto:info@coderdojo-waregem.be">Contacteer ons</a>
+<a href="#coderwaar">Contacteer ons</a>
 </div>
 
 ![groepsfoto](assets/20260523_groepsfoto.jpg)
