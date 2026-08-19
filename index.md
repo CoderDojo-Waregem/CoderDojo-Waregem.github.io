@@ -4,6 +4,11 @@ CoderDojo organiseert wereldwijd bijeenkomsten voor jongeren van 7 tot 17 jaar w
 
 Eén zaterdagvoormiddag in de maand organiseert CoderDojo Waregem **gratis workshops** (doe-het-zelf lessen) voor jongens en meisjes van 7 tot 17 jaar. Onze Dojo vind je in de bibliotheek van Waregem en wordt ondersteund door een enthousiast team van coaches: **vrijwilligers** die de workshops voorbereiden en begeleiden. Ze **leggen uit, doen voor, leren aan en stimuleren fantasie, creativiteit en de ontwikkeling van programmeervaardigheden**. Ouders zijn meer dan welkom als ze dat willen. Kinderen tot 12 jaar moeten bij hun eerste deelnames altijd vergezeld zijn van een volwassene.
 
+<div class="site-actions">
+<a href="#coderwanneer">Bekijk de komende data</a>
+<a href="mailto:info@coderdojo-waregem.be">Contacteer ons</a>
+</div>
+
 ![groepsfoto](assets/20260523_groepsfoto.jpg)
 
 De regels van CoderDojo zijn heel eenvoudig:
@@ -37,16 +42,24 @@ email: [info@coderdojo-waregem.be](mailto:info@coderdojo-waregem.be)
 
 Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijven. Het aantal plaatsen is beperkt: ben je verhinderd om deel te nemen aan een event waarvoor je bent ingeschreven, schrijf je dan terug uit via Eventbrite en maak zo je plaats vrij voor andere geïnteresseerden. Alle plaatsen volzet? Geen nood: teken in op de wachtlijst zodat je automatisch verwittigd wordt als er plaatsen vrijkomen of inschrijvingen openen voor volgende events.
 
-- zaterdag 19 september 2026, 09:30-12:15
-- zaterdag 17 oktober 2026, 09:30-12:15
-- zaterdag 21 november 2026, 09:30-12:15
-- zaterdag 12 december 2026, 09:30-12:15
-- zaterdag 23 januari 2027, 09:30-12:15
-- zaterdag 20 februari 2027, 09:30-12:15
-- zaterdag 27 maart 2027, 09:30-12:15
-- zaterdag 17 april 2027, 09:30-12:15
-- zaterdag 22 mei 2027, 09:30-12:15
-- zaterdag 26 juni 2027, 09:30-12:15
+### Edities 2026-2027
+
+| Datum | Uur | Inschrijven |
+| --- | --- | --- |
+| zaterdag 19 september 2026 | 09:30-12:15 |  |
+| zaterdag 17 oktober 2026 | 09:30-12:15 |  |
+| zaterdag 21 november 2026 | 09:30-12:15 |  |
+| zaterdag 12 december 2026 | 09:30-12:15 |  |
+| zaterdag 23 januari 2027 | 09:30-12:15 |  |
+| zaterdag 20 februari 2027 | 09:30-12:15 |  |
+| zaterdag 27 maart 2027 | 09:30-12:15 |  |
+| zaterdag 17 april 2027 | 09:30-12:15 |  |
+| zaterdag 22 mei 2027 | 09:30-12:15 |  |
+| zaterdag 26 juni 2027 | 09:30-12:15 |  |
+{: .schedule-table}
+
+<details markdown="1">
+<summary>Archief vorige Dojo's met foto's</summary>
 
 - zaterdag 20 september 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/6vi15764rojwVjJg9))
 - zaterdag 18 oktober 2025, 09:30-12:15 ([foto's](https://photos.app.goo.gl/64nWQE6JJF6H99Xy6))
@@ -156,6 +169,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 - zaterdag 15 april 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/inKkNTPqBPbWQ61j9))
 - zaterdag 13 mei 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/SxVawPJARrjQFN356))
 - zaterdag 17 juni 2017, 09:30-12:30 ([foto's](https://goo.gl/photos/rHCSh8MN7smQqMzPA))
+
+</details>
 
 ## CoderKata
 
