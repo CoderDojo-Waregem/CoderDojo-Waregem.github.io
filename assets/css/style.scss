@@ -96,6 +96,8 @@ footer {
 @media print, screen and (max-width: 1060px) {
   section {
     margin-top: 1.25rem;
+    padding: 20px;
+    box-sizing: border-box;
   }
 }
 
