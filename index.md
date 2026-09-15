@@ -369,7 +369,12 @@ Een van onze coaches was in een lyrische bui toen hij het volgende uit zijn pen 
 - [Programmeren voor de jeugd met Coderdojo](assets/20161124_infokrant_waregem.jpg) (Infokrant Waregem, vrijdag 25 november 2016)
 
 
-## Scratch Cup Deluxe 2026
+## Scratch Cup
+
+Elk jaar sluiten we het CoderDojo-jaar af met een Scratch wedstrijd. Hieronder vind je de opdrachten van alle edities.
+
+<details markdown="1">
+<summary>Scratch Cup Deluxe 2026</summary>
 
 Om ons tiende CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 12 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
@@ -390,7 +395,10 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 De startprojecten voor de **Scratch Cup Deluxe 2026** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/51673975/).
 
-## Scratch Cup Deluxe Tryout
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup Deluxe Tryout</summary>
 
 **[Flappy Bird](https://scratch.mit.edu/projects/17432735)**
 
@@ -429,7 +437,10 @@ De startprojecten voor de **Scratch Cup Deluxe 2026** vind je in deze [Scratch s
 - cactussen komen veel trager (waardoor spelletje makkelijker wordt)
 - je kan door de grote cactus lopen zonder te sterven
 
-## Scratch Cup 2025
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2025</summary>
 
 Om ons negende CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 9 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
@@ -450,7 +461,10 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 De startprojecten voor de **Scratch Cup 2025** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/50626221).
 
-## Scratch Cup 2024
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2024</summary>
 
 Om ons achtste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
@@ -471,7 +485,10 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 De startprojecten voor de **Scratch Cup 2024** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/35338193/).
 
-## Scratch Cup 2020
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2020</summary>
 
 Ons vierde CoderDojo-jaar in Waregem zullen we altijd blijven herinneren als het coronajaar waarin we voor het eerst online gingen. Om het werkjaar feestelijk af te sluiten, organiseren we een Scratch wedstrijd. Dit jaar met als thema "Grote Kunst voor Kleine Coders". We vormen teams van telkens twee of drie ninja's/ouders die het tegen de klok en tegen elkaar opnemen. De uitdaging is eenvoudig: elk team krijgt een reeks opdrachten die moeten opgelost worden in Scratch.
 
@@ -495,7 +512,10 @@ Op ons [interactief scorebord](https://docs.google.com/spreadsheets/d/19O0hAERtR
 
 De startprojecten voor de **Scratch Cup 2020** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/26991378/).
 
-## Scratch Cup 2019
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2019</summary>
 
 Om ons derde CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De uitdaging is eenvoudig: elk team krijgt 15 opdrachten die het moet proberen oplossen aan de hand van Scratch.
 
@@ -515,7 +535,10 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 De startprojecten voor de **Scratch Cup 2019** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/15561013/).
 
-## Scratch Cup 2018
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2018</summary>
 
 Om ons tweede CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch.
 
@@ -536,7 +559,10 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 
 De startprojecten voor de **Scratch Cup 2018** vind je in deze [Scratch studio](https://scratch.mit.edu/studios/5185408/).
 
-## Scratch Cup 2017
+</details>
+
+<details markdown="1">
+<summary>Scratch Cup 2017</summary>
 
 Om ons eerste CoderDojo-jaar in Waregem feestelijk af te sluiten, organiseren we een Scratch wedstrijd waarin zowel de kinderen als de ouders het tegen elkaar opnemen. We vormen teams van telkens twee kinderen of twee ouders die het tegen de klok en tegen elkaar opnemen. De opdracht is eenvoudig: elk team krijgt 13 uitdagingen die je moet proberen oplossen aan de hand van Scratch en er is ook een praktische proef die elk team om de beurt moet proberen uit te voeren.
 
@@ -569,6 +595,8 @@ Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scr
 - [opgave 11](https://scratch.mit.edu/projects/166311458/)
 - opgave 12 (maak zelf je eigen project)
 - opgave 13 (maak zelf je eigen project)
+
+</details>
 
 ## Bouw je mee?
 
