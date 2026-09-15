@@ -46,8 +46,8 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 | Datum | Uur | Inschrijven |
 | --- | --- | --- |
-| zaterdag 19 september 2026 | 09:30-12:15 | ([inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-19092026-1999515817636))  |
-| zaterdag 17 oktober 2026 | 09:30-12:15 | ([inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-17102026-2000961318167))  |
+| zaterdag 19 september 2026 | 09:30-12:15 | [inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-19092026-1999515817636)  |
+| zaterdag 17 oktober 2026 | 09:30-12:15 | [inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-17102026-2000961318167)  |
 | zaterdag 21 november 2026 | 09:30-12:15 |  |
 | zaterdag 12 december 2026 | 09:30-12:15 |  |
 | zaterdag 23 januari 2027 | 09:30-12:15 |  |
@@ -178,7 +178,9 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsporten — heel wat verschillende technieken onder de knie krijgen die je op een welbepaalde manier moet combineren om een opdracht uit te voeren. In de CoderDojo leer je deze technieken spelenderwijs beheersen door middel van een onze eigen kata: opdrachten die je op weg helpen. Eenmaal je de technieken onder de knie hebt, ben je in staat om ze vrij toe te passen en te combineren om zelf dingen te gaan bouwen. Dit zijn de kata waar we momenteel aan werken:
 
-- [Hour of Code](https://code.org/learn)
+- <details markdown="1">
+  <summary>Hour of Code</summary>
+
   - [Dance Party](https://code.org/dance)
   - [Star Wars](https://studio.code.org/courses/starwarsblocks/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Minecraft](https://studio.code.org/courses/mc/units/1/lessons/1/levels/1?lang=nl-NL)
@@ -188,12 +190,20 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Moana](https://partners.disney.com/hour-of-code/wayfinding-with-code)
   - [Flappy Bird](https://studio.code.org/flappy/1)
   - [Lightbot](lightbot.html)
-- [code.org](https://code.org/)
+
+  </details>
+- <details markdown="1">
+  <summary>code.org</summary>
+
   - [cursus 1](https://studio.code.org/s/course1)
   - [cursus 2](https://studio.code.org/s/course2)
   - [cursus 3](https://studio.code.org/s/course3)
   - [cursus 4](https://studio.code.org/s/course4)
-- [Scratch Junior](http://www.scratchjr.org/)
+
+  </details>
+- <details markdown="1">
+  <summary>Scratch Junior</summary>
+
   - [Overzicht van de blokken](https://drive.google.com/file/d/0B_FlIjXoGUrScUNtVWNfOHlKWTA/view?usp=sharing&resourcekey=0-VneIarW6lKkxn_4zS6KAsA)
   - [Door de stad rijden](https://drive.google.com/file/d/0B_FlIjXoGUrSdkt1Q2o0MlhpYWs/view?usp=sharing&resourcekey=0-PrKmyKzQae7xzC_69cxeVw)
   - [Dierenrace](https://drive.google.com/file/d/0B_FlIjXoGUrSUWEtbXlJX0Z2Ujg/view?usp=sharing&resourcekey=0--hyLaN6J6Nhvp1HshHwzrQ)
@@ -204,7 +214,12 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Dansfeest](https://drive.google.com/file/d/0B_FlIjXoGUrSY2szUno4cElydWs/view?usp=sharing&resourcekey=0-HC6sHANPdMpx8PPF0ptEYA)
   - [Ontmoeten en begroeten](https://drive.google.com/file/d/0B_FlIjXoGUrSZDJSODlkaEg4dmM/view?usp=sharing&resourcekey=0-FJ62ew2xG8LFdmEtv5rlZA)
   - [Klasgesprek](https://drive.google.com/file/d/0B_FlIjXoGUrSUDdfRlZXTVpVcms/view?usp=sharing&resourcekey=0-OLVmzjdcnkSX6nQSK9yElg)
-- [Scratch](http://scratch.mit.edu)
+
+  </details>
+- <details markdown="1">
+  <summary>Scratch</summary>
+
+  - [Scratch](http://scratch.mit.edu)
   - [Star Hunter](https://drive.google.com/file/d/0B_FlIjXoGUrSOC1MNzBScnVmUVE/view?usp=sharing&resourcekey=0-FPiHNFB1mymHM-t31ClI2Q)
   - [Kaasjacht](https://drive.google.com/file/d/0B_FlIjXoGUrSNFJyQkdjTEN6UG8/view?usp=sharing&resourcekey=0-iXU6M6v-aomb6KXkobqTzw)
   - [Circle Wars](https://drive.google.com/file/d/0B_FlIjXoGUrScnBQSlZmQW5TN28/view?usp=sharing&resourcekey=0-19F7VsIfuG1DHuyMxb-xgg)
@@ -215,36 +230,61 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Tropical Tunes](https://drive.google.com/file/d/0B_FlIjXoGUrSYU1wcDU2bkZ0ZjQ/view?usp=sharing&resourcekey=0-MDKzmB2WKXAzI8cl3ZTnUw)
   - [Simon Says](https://drive.google.com/file/d/0B_FlIjXoGUrSTC1sWVBhMDJXdzg/view?usp=sharing&resourcekey=0-xxTvl-y3BO2yj1ZShHVxMA) (voorbeeloplossing: [PDF](https://drive.google.com/open?id=0B_FlIjXoGUrSLVpsd0ZMejlkX0U)/[Scratch](https://scratch.mit.edu/projects/134384127/))
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
-- [Scratch For Arduino](http://s4a.cat)
+
+  </details>
+- <details markdown="1">
+  <summary>Scratch For Arduino</summary>
+
+  - [Scratch For Arduino](http://s4a.cat)
   - [Installatiebestanden](https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link)
   - [Parkeergarage - Firmata](assets/snap/Ultrasound_HC_SR04Firmata.ino)
   - [Parkeergarage - Blocks](assets/snap/Ultrasound_HC_SR04_blocks.xml)
-- Scratch & Artificiële Intelligentie (AI)
+
+  </details>
+- <details markdown="1">
+  <summary>Scratch & Artificiële Intelligentie (AI)</summary>
+
   - stap 1: train je model
     - [Teachable Machine](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteachablemachine.withgoogle.com%2F&data=04%7C01%7CPeter.Dawyndt%40ugent.be%7Cbef7b70a33fb4469562508da01bae5e1%7Cd7811cdeecef496c8f91a1786241b99c%7C1%7C0%7C637824200636798315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=HezCllknHhml%2Bmu23z5D1hNFwRKioQjqKQAm9SyLckw%3D&reserved=0)
   - stap 2: gebruik je model
     - [extensie voor afbeeldingen/geluid](https://champierre.github.io/tm2scratch/)
     - [extensie voor houdingen](https://champierre.github.io/tmpose2scratch/)
-- Mbot
+
+  </details>
+- <details markdown="1">
+  <summary>Mbot</summary>
+
   - [Ontwikkelomgeving online](https://ide.mblock.cc/)
   - [Installatieprogramma](http://www.mblock.cc/download/)
   - [Opdrachten](https://drive.google.com/drive/folders/0B0C5fMkcW0HMQXlTZXJGbVZtcXM?resourcekey=0-TQzgq_NBiNDMng49xvOTlg&usp=drive_link)
   - Vlieg expeditie: dansende robots ([uitleg](https://drive.google.com/file/d/0B0C5fMkcW0HMM1dzd0UzWkRqMEU/view?usp=sharing&resourcekey=0-W_2c7SiGUCyOTkkCjooFgA), [Scratch project](https://drive.google.com/file/d/0B0C5fMkcW0HMbG9UTXI3aWdnREk/view?usp=sharing&resourcekey=0--841l21AP8geYqr88nE6PA))
-- micro:bit
+
+  </details>
+- <details markdown="1">
+  <summary>micro:bit</summary>
+
   - eerste stapjes ([blockly](https://drive.google.com/file/d/0B_FlIjXoGUrSaDlMNk5ZdS00MVE/view?usp=sharing&resourcekey=0-oW8px_X0gCz6N-zETuBWLg), [python](https://drive.google.com/file/d/0B_FlIjXoGUrSTGRPYTdNTXQ2OVk/view?usp=sharing&resourcekey=0-dAHf1Vd_aTG4euq57mX47Q))
   - [ninja:bit](https://drive.google.com/file/d/11gVywUCyb3CfutYT0vQAWILB1tSIDXch/view?usp=sharing)
   - micro:bit op wielen ([Video](assets/IMG_0924.mp4))
   - [mu editor](https://codewith.mu/)
-- websites bouwen
+
+  </details>
+- <details markdown="1">
+  <summary>websites bouwen</summary>
+
   - [Ylan](https://jsfiddle.net/0w32kjuv)
   - [Sander & Kevin](https://jsfiddle.net/6m0a5dwz/1)
   - [Leyla](https://jsfiddle.net/4qrp71cs)
   - [Peter](https://jsfiddle.net/e312x5zk/1)
   - [Mathis](https://jsfiddle.net/v73z692q)
   - [Imke](https://jsfiddle.net/pkax6c39)
+
+  </details>
 - [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
 - [SVG Viewer](https://www.svgviewer.dev/)
-- Dance Party:
+- <details markdown="1">
+  <summary>Dance Party</summary>
+
   - [Emile](https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU)
   - [Jaron](https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0)
   - [Robbe](https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU)
@@ -253,10 +293,18 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Eline](https://studio.code.org/projects/dance/YIm_JssSm1DUaYOY62kDNbgGcxXeufCDgb6TlrTveJs)
   - [Eline T](https://studio.code.org/projects/dance/yzwpa299Yojg-dRnxsBi816Qk79UDdv7Dj04921Tasg)
   - [Melanie](https://studio.code.org/projects/dance/UcjozRARna8W6GgIm76ky53Z8kKAvpItdFIWbrChxIY)
+
+  </details>
 - [CodeCombat](https://www.codecombat.com)
-- Sonic Pi:
+- <details markdown="1">
+  <summary>Sonic Pi</summary>
+
   - [Eigen muziek toevoegen](https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing)
-- MIT App Inventor
+
+  </details>
+- <details markdown="1">
+  <summary>MIT App Inventor</summary>
+
   - [Van Start met App Inventor](https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing)
   - [Hallo, Android!](https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing)
   - [Botsende bal](https://drive.google.com/file/d/1Hg6iG9xnBoi1hWzkJkn_G5OJTgBgMvvN/view?usp=sharing)
@@ -265,6 +313,8 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Waar is de mol?](https://drive.google.com/file/d/1j-l4kAlYz6s_dwsOuynCl7zouycexUPJ/view?usp=sharing)
   - [Space Invaders](https://drive.google.com/file/d/1lMNDLpzJAex9nHM54W48zp6f9UyunONw/view?usp=sharing)
   - [Getal gokken voor 2 spelers](https://drive.google.com/file/d/1QKTCoFriLWsdN-H6zLj39KBcl3zJyOv_/view?usp=sharing)
+
+  </details>
 - [Scratch met HTTP calls](ide.codeskool.cc)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
