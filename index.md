@@ -237,30 +237,12 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - micro:bit op wielen ([Video](assets/IMG_0924.mp4))
   - [mu editor](https://codewith.mu/)
 - websites bouwen
-  - nanonauten
-    - [boek](https://drive.google.com/file/d/14-hUXNWMoX-IiGLeM3km5QOUTt0Zrn7T/view?usp=sharing)
-    - [bestanden](http://nano-tips.com/gamebeelden)
-  - [Lukas](https://jsfiddle.net/q2ajgrz0/2/show/)
-  - [Jens](https://jsfiddle.net/hzag0tk3/show/)
-  - [Nikolina](https://jsfiddle.net/168k5uys/2/show/)
-  - [Stevan](https://jsfiddle.net/kgb9to0v/show/)
-  - [Lena](https://jsfiddle.net/pd09L85v/show/)
-  - [Sander](https://jsfiddle.net/zmt05odp/1/show)
-  - [Ludovic](https://jsfiddle.net/m35s1hfL/1/show)
-  - [Lukas](https://jsfiddle.net/0aydvkhp/show)
-  - 2023
-    - [Matteo](https://jsfiddle.net/wujog4rL/14/show)
-    - [Lars](https://jsfiddle.net/Larsdec/su4o5wz8/1/show)
-    - [Yavin](https://jsfiddle.net/G0DL10N/u24np6og/4/show)
-    - [Matties](https://jsfiddle.net/cwby2g9x/show)
-    - [Raf](https://jsfiddle.net/uLxbotzc/show)
-  - 2025
-    - [Ylan](https://jsfiddle.net/0w32kjuv)
-    - [Sander & Kevin](https://jsfiddle.net/6m0a5dwz/1)
-    - [Leyla](https://jsfiddle.net/4qrp71cs)
-    - [Peter](https://jsfiddle.net/e312x5zk/1)
-    - [Mathis](https://jsfiddle.net/v73z692q)
-    - [Imke](https://jsfiddle.net/pkax6c39)
+  - [Ylan](https://jsfiddle.net/0w32kjuv)
+  - [Sander & Kevin](https://jsfiddle.net/6m0a5dwz/1)
+  - [Leyla](https://jsfiddle.net/4qrp71cs)
+  - [Peter](https://jsfiddle.net/e312x5zk/1)
+  - [Mathis](https://jsfiddle.net/v73z692q)
+  - [Imke](https://jsfiddle.net/pkax6c39)
 - [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
 - [SVG Viewer](https://www.svgviewer.dev/)
 - Dance Party:
@@ -275,7 +257,6 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - [CodeCombat](https://www.codecombat.com)
 - Sonic Pi:
   - [Eigen muziek toevoegen](https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing)
-- Unity
 - MIT App Inventor
   - [Van Start met App Inventor](https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing)
   - [Hallo, Android!](https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing)
