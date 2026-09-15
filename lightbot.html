@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lightbot – CoderDojo Waregem</title>
+  <link rel="icon" href="favicon.ico">
+  <style>
+    html, body { margin: 0; height: 100%; background: #1e2327; color: #eee; font-family: system-ui, sans-serif; }
+    body { display: flex; flex-direction: column; min-height: 100%; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .5rem 1rem; font-size: .9rem; }
+    header a { color: #9cf; text-decoration: none; }
+    header a:hover { text-decoration: underline; }
+    main { flex: 1; display: flex; align-items: center; justify-content: center; padding: 0 1rem 1rem; }
+    /* Het spel is 960x640 (3:2). Zo groot mogelijk, maar altijd binnen het scherm. */
+    #game { width: min(100%, calc((100vh - 4rem) * 1.5)); aspect-ratio: 3 / 2; background: #000; }
+    #game ruffle-player { width: 100%; height: 100%; display: block; }
+    #fallback { padding: 1rem; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="./">&larr; CoderDojo Waregem</a>
+    <span>Lightbot &middot; klik op het spel om te starten &middot; volledig scherm via de knop rechtsonder in het spel</span>
+  </header>
+  <main>
+    <div id="game">
+      <noscript><p id="fallback">Zet JavaScript aan om Lightbot te spelen.</p></noscript>
+    </div>
+  </main>
+
+  <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {
+      autoplay: "on",          // start meteen; Ruffle toont zelf een "klik om te spelen" als de browser dat eist
+      unmuteOverlay: "visible",
+      letterbox: "on",
+      scale: "showAll",
+      warnOnUnsupportedContent: false,
+      splashScreen: true,
+      allowScriptAccess: false
+    };
+
+    window.addEventListener("DOMContentLoaded", function () {
+      var container = document.getElementById("game");
+      function fail(msg) {
+        container.innerHTML = '<p id="fallback">' + msg +
+          ' Je kan het spel ook <a href="assets/lightbot-codehour.swf" download style="color:#9cf">downloaden</a> en openen op <a href="https://ruffle.rs/demo/" style="color:#9cf">ruffle.rs/demo</a>.</p>';
+      }
+      if (!window.RufflePlayer || !window.RufflePlayer.newest) {
+        return fail("De Flash-speler (Ruffle) kon niet geladen worden.");
+      }
+      try {
+        var ruffle = window.RufflePlayer.newest();
+        var player = ruffle.createPlayer();
+        container.appendChild(player);
+        // Nieuwe API is player.ruffle().load(); oudere builds gebruiken player.load().
+        var api = typeof player.ruffle === "function" ? player.ruffle() : player;
+        var p = api.load("assets/lightbot-codehour.swf");
+        if (p && p.catch) p.catch(function (e) { console.error(e); fail("Het spel kon niet geladen worden."); });
+      } catch (e) {
+        console.error(e);
+        fail("Het spel kon niet gestart worden.");
+      }
+    });
+  </script>
+  <!-- Ruffle: Flash-emulator in de browser. Altijd de nieuwste versie via het CDN, zoals aanbevolen door ruffle.rs -->
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</body>
+</html>

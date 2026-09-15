@@ -187,8 +187,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Frozen](https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Moana](https://partners.disney.com/hour-of-code/wayfinding-with-code)
   - [Flappy Bird](https://studio.code.org/flappy/1)
-  - Lightbot
-    - Download dit bestand ([link](assets/lightbot-codehour.swf)) en open het op deze site ([link](https://ruffle.rs/demo/)) via de knop 'Select File'
+  - [Lightbot](lightbot.html)
 - [code.org](https://code.org/)
   - [cursus 1](https://studio.code.org/s/course1)
   - [cursus 2](https://studio.code.org/s/course2)
