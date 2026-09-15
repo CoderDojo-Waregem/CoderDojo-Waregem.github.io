@@ -280,8 +280,13 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Imke](https://jsfiddle.net/pkax6c39)
 
   </details>
-- [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
-- [SVG Viewer](https://www.svgviewer.dev/)
+- <details markdown="1">
+  <summary>SVG</summary>
+
+  - [tekeningen programmeren met SVG](https://dodona.be/nl/courses/3375/)
+  - [SVG Viewer](https://www.svgviewer.dev/)
+
+  </details>
 - <details markdown="1">
   <summary>Dance Party</summary>
 
@@ -295,7 +300,6 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Melanie](https://studio.code.org/projects/dance/UcjozRARna8W6GgIm76ky53Z8kKAvpItdFIWbrChxIY)
 
   </details>
-- [CodeCombat](https://www.codecombat.com)
 - <details markdown="1">
   <summary>Sonic Pi</summary>
 
@@ -315,7 +319,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Getal gokken voor 2 spelers](https://drive.google.com/file/d/1QKTCoFriLWsdN-H6zLj39KBcl3zJyOv_/view?usp=sharing)
 
   </details>
-- [Scratch met HTTP calls](ide.codeskool.cc)
+- [Scratch met HTTP calls](https://ide.codeskool.cc)
 
 [Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
