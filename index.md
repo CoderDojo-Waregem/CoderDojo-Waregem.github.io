@@ -290,7 +290,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - <details markdown="1">
   <summary>Turtle</summary>
 
-  - [Leer tekenen met Turtle Graphics in Python](https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk)
+  - [Leer tekenen met Turtle Graphics in Python](https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk) ([PDF](https://drive.google.com/file/d/1zGSEsbZKQF3LdQCMOwpfJ02r6LZts0Q1/view?usp=sharing))
   - [volledige documentatie van turtle module](https://docs.python.org/3/library/turtle.html)
 
   </details>
