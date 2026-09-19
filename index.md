@@ -288,6 +288,13 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 
   </details>
 - <details markdown="1">
+  <summary>Turtle</summary>
+
+  - [Leer tekenen met Turtle Graphics in Python](https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk)
+  - [volledige documentatie van turtle module](https://docs.python.org/3/library/turtle.html)
+
+  </details>
+- <details markdown="1">
   <summary>Dance Party</summary>
 
   - [Emile](https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU)
