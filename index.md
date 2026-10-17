@@ -245,10 +245,11 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   <summary>Scratch & Artificiële Intelligentie (AI)</summary>
 
   - stap 1: train je model
-    - [Teachable Machine](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteachablemachine.withgoogle.com%2F&data=04%7C01%7CPeter.Dawyndt%40ugent.be%7Cbef7b70a33fb4469562508da01bae5e1%7Cd7811cdeecef496c8f91a1786241b99c%7C1%7C0%7C637824200636798315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=HezCllknHhml%2Bmu23z5D1hNFwRKioQjqKQAm9SyLckw%3D&reserved=0)
+    - [Teachable Machine](https://teachablemachine.withgoogle.com/)
   - stap 2: gebruik je model
     - [extensie voor afbeeldingen/geluid](https://champierre.github.io/tm2scratch/)
     - [extensie voor houdingen](https://champierre.github.io/tmpose2scratch/)
+    - [extensie voor microbit](https://playground.raise.mit.edu/main/)
 
   </details>
 - <details markdown="1">
