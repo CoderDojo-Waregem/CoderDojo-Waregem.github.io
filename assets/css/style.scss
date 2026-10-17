@@ -29,6 +29,18 @@
   color: #fff;
 }
 
+.site-actions a.site-actions-alt {
+  border-color: #dba500;
+  background: #ffcc00;
+  color: #333;
+}
+
+.site-actions a.site-actions-alt:hover,
+.site-actions a.site-actions-alt:focus {
+  background: #ffe788;
+  color: #333;
+}
+
 .schedule-table th,
 .schedule-table td {
   border-right: 0;
