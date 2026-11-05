@@ -50,7 +50,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 | zaterdag 19 september 2026 | 09:30-12:15 | [foto's](https://photos.app.goo.gl/nsZvJiSWhBgppmAKA)  |
 | zaterdag 17 oktober 2026 | 09:30-12:15 | [foto's](https://photos.app.goo.gl/GwE93NNiXGvj7eVg8)  |
 | zaterdag 21 november 2026 | 09:30-12:15 | [inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-21112026-2002430697119) |
-| zaterdag 12 december 2026 | 09:30-12:15 |  |
+| zaterdag 12 december 2026 | 09:30-12:15 | [inschrijven](https://www.eventbrite.com/e/registratie-coderdojo-waregem-12122026-2004433301964) |
 | zaterdag 23 januari 2027 | 09:30-12:15 |  |
 | zaterdag 20 februari 2027 | 09:30-12:15 |  |
 | zaterdag 27 maart 2027 | 09:30-12:15 |  |
