@@ -185,7 +185,6 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Dance Party](https://code.org/dance)
   - [Star Wars](https://studio.code.org/courses/starwarsblocks/units/1/lessons/1/levels/1?lang=nl-NL)
   - [Minecraft](https://studio.code.org/courses/mc/units/1/lessons/1/levels/1?lang=nl-NL)
-  - [Google Maps](https://blockly.games/maze?lang=nl)
   - [Angry Birds](https://studio.code.org/hoc/1)
   - [Run Marco / Run Sophia](https://runmarco.allcancode.com)
   - [Frozen](https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1?lang=nl-NL)
