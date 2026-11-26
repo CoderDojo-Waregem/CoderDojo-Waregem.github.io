@@ -17,7 +17,7 @@ De regels van CoderDojo zijn heel eenvoudig:
 - **regel #1: above all, be cool** — behandel anderen altijd met respect en help elkaar
 - **ask 3 before me** — vraag hulp aan deelnemers die naast je zitten, aan dezelfde tafel, aan andere tafels; als niemand de oplossing weet voor je probleem zoek dan hulp bij een coach en deel de oplossing met de anderen aan wie je eerst hulp gevraagd had zodat ze er ook iets van leren
 - **speel geen spelletjes die je niet zelf gemaakt hebt** tijdens de CoderDojo
-- **coaches coachen** — ze helpen je bij de volgende stappen, geven tips, verklappen truucjes, maar geven niet noodzakelijk kant-en-klare oplossingen voor problemen die opduiken tijdens het programmeren; zo helpen ze je om te leren hoe je zelf problemen kan oplossen; dat is pas cool!
+- **coaches coachen** — ze helpen je bij de volgende stappen, geven tips, verklappen trucjes, maar geven niet noodzakelijk kant-en-klare oplossingen voor problemen die opduiken tijdens het programmeren; zo helpen ze je om te leren hoe je zelf problemen kan oplossen; dat is pas cool!
 - **CoderDojo organiseert doe-het-zelf lessen** — we zijn geen school! loop rond, vraag aan anderen wat ze aan het doen zijn, en zorg dat je er vooral veel plezier aan beleeft
 - laat het aan je ouders weten als je het lokaal moet verlaten
 - help de eet-en-drink-stand proper te houden en gooi je afval in de prullenbak
@@ -152,10 +152,10 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 - zaterdag 16 september 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/P3EJ5WkFiDO7JoLo2))
 - zaterdag 21 oktober 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/heT1wVgX1ceHCLnQ2))
-- zaterdag 18 november 2017, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/kcAkUb0M532ubsz73)
-- zaterdag 16 december 2017, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/kf06D6xB63ZMjKLq1)
-- zaterdag 20 januari 2018, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/b52SIc1IsxofZONj1)
-- zaterdag 17 februari 2018, 09:30-12:30 ([foto's)](https://photos.app.goo.gl/bBq2qTkZDu8KzBn13)
+- zaterdag 18 november 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/kcAkUb0M532ubsz73))
+- zaterdag 16 december 2017, 09:30-12:30 ([foto's](https://photos.app.goo.gl/kf06D6xB63ZMjKLq1))
+- zaterdag 20 januari 2018, 09:30-12:30 ([foto's](https://photos.app.goo.gl/b52SIc1IsxofZONj1))
+- zaterdag 17 februari 2018, 09:30-12:30 ([foto's](https://photos.app.goo.gl/bBq2qTkZDu8KzBn13))
 - zaterdag 17 maart 2018, 09:30-12:30 ([foto's](https://photos.app.goo.gl/me3LMc3WfACfilO53))
 - zaterdag 21 april 2018, 09:30-12:30
 - zaterdag 19 mei 2018, 09:30-12:30 ([foto's](https://photos.app.goo.gl/W0YVutO7BLKxNnDE3))
@@ -177,7 +177,7 @@ Deelname aan CoderDojo Waregem is gratis, maar je moet wel op voorhand inschrijv
 
 **Kata** (型, かた) is een term uit de Japanse zelfverdedigingskunsten en vechtsporten die staat voor een individuele stijloefening met een reeks vastgelegde bewegingen, uitgevoerd tegen 4 tot 8 denkbeeldige tegenstanders die uit verschillende richtingen aanvallen. Het is een gedetailleerde reeks vooraf vastgestelde stoot-, trap- en afweertechnieken, die typisch bestaat uit tientallen zeer uiteenlopende bewegingen en technieken. De gehele kata duurt gewoonlijk zo'n 1 à 2 minuten.
 
-Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsporten — heel wat verschillende technieken onder de knie krijgen die je op een welbepaalde manier moet combineren om een opdracht uit te voeren. In de CoderDojo leer je deze technieken spelenderwijs beheersen door middel van een onze eigen kata: opdrachten die je op weg helpen. Eenmaal je de technieken onder de knie hebt, ben je in staat om ze vrij toe te passen en te combineren om zelf dingen te gaan bouwen. Dit zijn de kata waar we momenteel aan werken:
+Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsporten — heel wat verschillende technieken onder de knie krijgen die je op een welbepaalde manier moet combineren om een opdracht uit te voeren. In de CoderDojo leer je deze technieken spelenderwijs beheersen door middel van onze eigen kata: opdrachten die je op weg helpen. Eenmaal je de technieken onder de knie hebt, ben je in staat om ze vrij toe te passen en te combineren om zelf dingen te gaan bouwen. Dit zijn de kata waar we momenteel aan werken:
 
 - <details markdown="1">
   <summary>Hour of Code</summary>
@@ -220,7 +220,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
 - <details markdown="1">
   <summary>Scratch</summary>
 
-  - [Scratch](http://scratch.mit.edu)
+  - [Scratch](https://scratch.mit.edu)
   - [Star Hunter](https://drive.google.com/file/d/0B_FlIjXoGUrSOC1MNzBScnVmUVE/view?usp=sharing&resourcekey=0-FPiHNFB1mymHM-t31ClI2Q)
   - [Kaasjacht](https://drive.google.com/file/d/0B_FlIjXoGUrSNFJyQkdjTEN6UG8/view?usp=sharing&resourcekey=0-iXU6M6v-aomb6KXkobqTzw)
   - [Circle Wars](https://drive.google.com/file/d/0B_FlIjXoGUrScnBQSlZmQW5TN28/view?usp=sharing&resourcekey=0-19F7VsIfuG1DHuyMxb-xgg)
@@ -229,14 +229,14 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   - [Hondenhapjes](https://drive.google.com/file/d/0B_FlIjXoGUrSQTlrY3dvcXpQMzQ/view?usp=sharing&resourcekey=0-8LxDB8-P4bBNf1Fkt40Gfg)
   - [Gletsjerrace](https://drive.google.com/file/d/0B_FlIjXoGUrSUTZ3RVNQSElnR2c/view?usp=sharing&resourcekey=0-dyiv3Hf4rzuZal8otvwzcQ)
   - [Tropical Tunes](https://drive.google.com/file/d/0B_FlIjXoGUrSYU1wcDU2bkZ0ZjQ/view?usp=sharing&resourcekey=0-MDKzmB2WKXAzI8cl3ZTnUw)
-  - [Simon Says](https://drive.google.com/file/d/0B_FlIjXoGUrSTC1sWVBhMDJXdzg/view?usp=sharing&resourcekey=0-xxTvl-y3BO2yj1ZShHVxMA) (voorbeeloplossing: [PDF](https://drive.google.com/open?id=0B_FlIjXoGUrSLVpsd0ZMejlkX0U)/[Scratch](https://scratch.mit.edu/projects/134384127/))
+  - [Simon Says](https://drive.google.com/file/d/0B_FlIjXoGUrSTC1sWVBhMDJXdzg/view?usp=sharing&resourcekey=0-xxTvl-y3BO2yj1ZShHVxMA) (voorbeeldoplossing: [PDF](https://drive.google.com/open?id=0B_FlIjXoGUrSLVpsd0ZMejlkX0U)/[Scratch](https://scratch.mit.edu/projects/134384127/))
   - bezoek onze [Scratch Studio](https://scratch.mit.edu/studios/3511910/)
 
   </details>
 - <details markdown="1">
   <summary>Scratch For Arduino</summary>
 
-  - [Scratch For Arduino](http://s4a.cat)
+  - [Scratch For Arduino](https://s4a.cat)
   - [Installatiebestanden](https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link)
   - [Parkeergarage - Firmata](assets/snap/Ultrasound_HC_SR04Firmata.ino)
   - [Parkeergarage - Blocks](assets/snap/Ultrasound_HC_SR04_blocks.xml)
@@ -257,7 +257,7 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   <summary>Mbot</summary>
 
   - [Ontwikkelomgeving online](https://ide.mblock.cc/)
-  - [Installatieprogramma](http://www.mblock.cc/download/)
+  - [Installatieprogramma](https://www.mblock.cc/download/)
   - [Opdrachten](https://drive.google.com/drive/folders/0B0C5fMkcW0HMQXlTZXJGbVZtcXM?resourcekey=0-TQzgq_NBiNDMng49xvOTlg&usp=drive_link)
   - Vlieg expeditie: dansende robots ([uitleg](https://drive.google.com/file/d/0B0C5fMkcW0HMM1dzd0UzWkRqMEU/view?usp=sharing&resourcekey=0-W_2c7SiGUCyOTkkCjooFgA), [Scratch project](https://drive.google.com/file/d/0B0C5fMkcW0HMbG9UTXI3aWdnREk/view?usp=sharing&resourcekey=0--841l21AP8geYqr88nE6PA))
 
@@ -330,11 +330,11 @@ Bij programmeren moet je — net zoals bij zelfverdedigingskunsten en vechtsport
   </details>
 - [Scratch met HTTP calls](https://ide.codeskool.cc)
 
-[Boeken over programmeren voor kinderen/jongeren](http://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
+[Boeken over programmeren voor kinderen/jongeren](https://mijn.bibliotheek.be/list/view/3225) die de bibliotheek van Waregem in haar collectie heeft.
 
 ## Coaches en Cooks
 
-Heb je passie voor ICT en beschik je over wat didactische vaardigheden. **Word coach** en help mee jongeren te inspireren en te leren programmeren. Of wil je liever wat logistieke ondersteuning geven om bijvoorbeeld een cake te bakken voor onze snackbar of te helpen zoeken naar sponsors. **Word cook** en help mee onze CoderDojo *up and running* te houden. Contacteer gerust een van onze coaches of cooks voor wat meer uitleg wat er van je verwacht wordt.
+Heb je passie voor ICT en beschik je over wat didactische vaardigheden? **Word coach** en help mee jongeren te inspireren en te leren programmeren. Of wil je liever wat logistieke ondersteuning geven om bijvoorbeeld een cake te bakken voor onze snackbar of te helpen zoeken naar sponsors? **Word cook** en help mee onze CoderDojo *up and running* te houden. Contacteer gerust een van onze coaches of cooks voor wat meer uitleg wat er van je verwacht wordt.
 
 **Onze coaches:**
 
@@ -426,7 +426,7 @@ De startprojecten voor de **Scratch Cup Deluxe 2026** vind je in deze [Scratch s
 - de lijn achter de kat is blauw
 - de appel verschijnt elke 10 seconden op een andere plaats
 - de website heeft de naam van je team
-- de weg van de  ingang naar de uitgang door het doolhof loopt enkel rechtdoor gaan
+- de weg van de ingang naar de uitgang door het doolhof loopt enkel rechtdoor
 
 **[Pong](https://scratch.mit.edu/projects/2718643)**
 
@@ -435,7 +435,7 @@ De startprojecten voor de **Scratch Cup Deluxe 2026** vind je in deze [Scratch s
 
 **[Zeeslag](https://scratch.mit.edu/projects/500954879)**
 
-- als een schot raakt is dan verschijnt er een vuurbal
+- als een schot raak is dan verschijnt er een vuurbal
 - de tegenstander kan je niet raken (hij mist ook als het raak is)
 - de boten van de tegenstander zijn zichtbaar
 - Je hebt maar 1 torpedo per beurt
@@ -506,16 +506,14 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
 1. lees de opdracht in de [opdrachtenbundel](https://drive.google.com/file/d/1WOmG3AC3otDfvNTaM0rSmr7REuNt3H1c/view?usp=sharing)
 2. open het bijhorende project in Scratch
 3. druk op de knop "Bekijk van binnen"
-5. schrijf code die de opdracht uitvoert
-6. laat je resultaat beoordelen door één van de CoderDojo coaches
+4. schrijf code die de opdracht uitvoert
+5. laat je resultaat beoordelen door één van de CoderDojo coaches
     * correct: voer de volgende opdracht uit vanaf stap 1
-    * niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+    * niet correct: herhaal de huidige opdracht vanaf stap 4 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
  
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
-Zoek alvast ook een naam voor je team en geef het door aan de coaches. Op ons interactief scorebord kan je de plaats van je team in de rangschikking bekijken.
-
-Op ons [interactief scorebord](https://docs.google.com/spreadsheets/d/19O0hAERtRXTJi9PPRLwajKA7XjhhkPpzQft8kRTE9x4/edit?usp=sharing) kan je de plaats van je team in de rangschikking bekijken.
+Zoek alvast ook een naam voor je team en geef het door aan de coaches. Op ons [interactief scorebord](https://docs.google.com/spreadsheets/d/19O0hAERtRXTJi9PPRLwajKA7XjhhkPpzQft8kRTE9x4/edit?usp=sharing) kan je de plaats van je team in de rangschikking bekijken.
 
 **Opgaven**
 
@@ -533,10 +531,10 @@ Voor elke opdracht is er een bijhorende Scratch project waarvan je moet vertrekk
 1. lees de opdracht in de opdrachtenbundel
 2. open het bijhorende project in Scratch
 3. druk op de knop "Bekijk van binnen"
-5. schrijf de nodige scripts die de opdracht uitvoeren
-6. laat je resultaat beoordelen door één van de CoderDojo coaches
+4. schrijf de nodige scripts die de opdracht uitvoeren
+5. laat je resultaat beoordelen door één van de CoderDojo coaches
     * correct: voer de volgende opdracht uit vanaf stap 1
-    * niet correct: herhaal de huidige opdracht vanaf stap 5 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
+    * niet correct: herhaal de huidige opdracht vanaf stap 4 (of vanaf stap 1 indien je de opdracht niet goed gelezen had)
  
 Je kan deze procedure al eens uitproberen met [dit voorbeeldproject](https://scratch.mit.edu/projects/166304031/). Je moet ervoor zorgen dat de drie sprites in dit project telkens iets groter worden als je op de toets G drukt en telkens iets kleiner worden als je op de toets K drukt.
 
