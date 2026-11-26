@@ -28,8 +28,140 @@
   margin: 16px 0 6px;
 }
 
-.kata-list details {
-  margin: 0 0 12px;
+.kata-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+
+.kata-filter {
+  cursor: pointer;
+  padding: 6px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  background: #f8fafc;
+  color: #333;
+  font: inherit;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.kata-filter:hover,
+.kata-filter:focus {
+  background: #eef6fb;
+  border-color: #3399cc;
+}
+
+.kata-filter.is-active {
+  background: #3399cc;
+  border-color: #2d89b7;
+  color: #fff;
+}
+
+.kata-group {
+  margin: 0 0 22px;
+}
+
+.kata-group-title {
+  margin: 0 0 10px;
+  color: #2d89b7;
+  font-size: 0.95em;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.kata-card {
+  display: block;
+  margin: 0 0 10px;
+  border: 1px solid #e2d48b;
+  border-radius: 4px;
+  background: #fffef7;
+}
+
+.kata-card > summary {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 14px;
+  border: 0;
+  background: #fff6cc;
+  color: #333;
+}
+
+.kata-card > summary::after {
+  content: none;
+}
+
+.kata-card[open] > summary {
+  border-bottom: 1px solid #e2d48b;
+  background: #ffe788;
+}
+
+.kata-card > summary:hover,
+.kata-card > summary:focus {
+  background: #ffe788;
+}
+
+.kata-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.kata-card-title {
+  font-weight: bold;
+}
+
+.kata-card > summary .kata-card-title::before {
+  content: "▸ ";
+  color: #9a7400;
+}
+
+.kata-card[open] > summary .kata-card-title::before {
+  content: "▾ ";
+}
+
+.kata-card-count {
+  flex-shrink: 0;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid #e2d48b;
+  font-size: 0.8em;
+  font-weight: normal;
+  color: #555;
+}
+
+.kata-card-desc {
+  display: block;
+  margin-top: 4px;
+  font-weight: normal;
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.4;
+}
+
+.kata-card-body {
+  padding: 12px 14px 4px;
+}
+
+.kata-card-body ul {
+  margin-bottom: 10px;
+}
+
+.kata-card-link {
+  padding: 10px 14px;
+  background: #fff6cc;
+  color: #333;
+  text-decoration: none;
+}
+
+.kata-card-link:hover,
+.kata-card-link:focus {
+  background: #ffe788;
+  color: #333;
 }
 
 .site-actions a {

@@ -1,8 +1,14 @@
 # Opdrachten (CoderKata) per categorie.
-# Elke categorie met `items` wordt getoond als een uitklapbaar <details>-blok.
-# Een item met alleen `title` + `url` wordt getoond als een directe link.
+# Velden per categorie:
+#   title:       naam van de categorie
+#   group:       beginners | games | hardware | code
+#   description: korte uitleg van 1 zin voor kinderen en ouders
+#   items:       lijst van opdrachten (wordt een uitklapbaar blok)
+#   url:         directe link (als er geen items-lijst is)
 
 - title: Hour of Code
+  group: beginners
+  description: Korte spelletjes van een uurtje om direct met blokjes te leren programmeren.
   items:
     - title: Dance Party
       url: https://code.org/dance
@@ -24,6 +30,8 @@
       url: lightbot.html
 
 - title: code.org
+  group: beginners
+  description: Stap-voor-stap cursussen van makkelijk naar uitdagender.
   items:
     - title: cursus 1
       url: https://studio.code.org/s/course1
@@ -35,6 +43,8 @@
       url: https://studio.code.org/s/course4
 
 - title: Scratch Junior
+  group: beginners
+  description: Eerste verhaaltjes en spelletjes maken met grote blokjes — ideaal voor de jongste ninja's.
   items:
     - title: Overzicht van de blokken
       url: https://drive.google.com/file/d/0B_FlIjXoGUrScUNtVWNfOHlKWTA/view?usp=sharing&resourcekey=0-VneIarW6lKkxn_4zS6KAsA
@@ -58,6 +68,8 @@
       url: https://drive.google.com/file/d/0B_FlIjXoGUrSUDdfRlZXTVpVcms/view?usp=sharing&resourcekey=0-OLVmzjdcnkSX6nQSK9yElg
 
 - title: Scratch
+  group: games
+  description: Bouw je eigen spelletjes en animaties met kleurrijke programmeerblokken.
   items:
     - title: Scratch
       url: https://scratch.mit.edu
@@ -90,18 +102,9 @@
       title: Scratch Studio
       url: https://scratch.mit.edu/studios/3511910/
 
-- title: Scratch For Arduino
-  items:
-    - title: Scratch For Arduino
-      url: https://s4a.cat
-    - title: Installatiebestanden
-      url: https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link
-    - title: Parkeergarage - Firmata
-      url: assets/snap/Ultrasound_HC_SR04Firmata.ino
-    - title: Parkeergarage - Blocks
-      url: assets/snap/Ultrasound_HC_SR04_blocks.xml
-
 - title: Scratch & Artificiële Intelligentie (AI)
+  group: games
+  description: Train je eigen AI-model met webcam of microfoon en gebruik het in Scratch.
   items:
     - text: "stap 1: train je model"
       children:
@@ -116,95 +119,9 @@
         - title: extensie voor microbit
           url: https://playground.raise.mit.edu/main/
 
-- title: Mbot
-  items:
-    - title: Ontwikkelomgeving online
-      url: https://ide.mblock.cc/
-    - title: Installatieprogramma
-      url: https://www.mblock.cc/download/
-    - title: Opdrachten
-      url: https://drive.google.com/drive/folders/0B0C5fMkcW0HMQXlTZXJGbVZtcXM?resourcekey=0-TQzgq_NBiNDMng49xvOTlg&usp=drive_link
-    - text: "Vlieg expeditie: dansende robots"
-      extras:
-        - title: uitleg
-          url: https://drive.google.com/file/d/0B0C5fMkcW0HMM1dzd0UzWkRqMEU/view?usp=sharing&resourcekey=0-W_2c7SiGUCyOTkkCjooFgA
-        - title: Scratch project
-          url: https://drive.google.com/file/d/0B0C5fMkcW0HMbG9UTXI3aWdnREk/view?usp=sharing&resourcekey=0--841l21AP8geYqr88nE6PA
-
-- title: "micro:bit"
-  items:
-    - text: eerste stapjes
-      extras:
-        - title: blockly
-          url: https://drive.google.com/file/d/0B_FlIjXoGUrSaDlMNk5ZdS00MVE/view?usp=sharing&resourcekey=0-oW8px_X0gCz6N-zETuBWLg
-        - title: python
-          url: https://drive.google.com/file/d/0B_FlIjXoGUrSTGRPYTdNTXQ2OVk/view?usp=sharing&resourcekey=0-dAHf1Vd_aTG4euq57mX47Q
-    - title: "ninja:bit"
-      url: https://drive.google.com/file/d/11gVywUCyb3CfutYT0vQAWILB1tSIDXch/view?usp=sharing
-    - text: "micro:bit op wielen"
-      extras:
-        - title: Video
-          url: assets/IMG_0924.mp4
-    - title: mu editor
-      url: https://codewith.mu/
-
-- title: websites bouwen
-  items:
-    - title: Ylan
-      url: https://jsfiddle.net/0w32kjuv
-    - title: Sander & Kevin
-      url: https://jsfiddle.net/6m0a5dwz/1
-    - title: Leyla
-      url: https://jsfiddle.net/4qrp71cs
-    - title: Peter
-      url: https://jsfiddle.net/e312x5zk/1
-    - title: Mathis
-      url: https://jsfiddle.net/v73z692q
-    - title: Imke
-      url: https://jsfiddle.net/pkax6c39
-
-- title: SVG
-  items:
-    - title: tekeningen programmeren met SVG
-      url: https://dodona.be/nl/courses/3375/
-    - title: SVG Viewer
-      url: https://www.svgviewer.dev/
-
-- title: Turtle
-  items:
-    - title: Leer tekenen met Turtle Graphics in Python
-      url: https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk
-      extras:
-        - title: PDF
-          url: https://drive.google.com/file/d/1zGSEsbZKQF3LdQCMOwpfJ02r6LZts0Q1/view?usp=sharing
-    - title: volledige documentatie van turtle module
-      url: https://docs.python.org/3/library/turtle.html
-
-- title: Dance Party
-  items:
-    - title: Emile
-      url: https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU
-    - title: Jaron
-      url: https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0
-    - title: Robbe
-      url: https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU
-    - title: Dymian
-      url: https://studio.code.org/projects/dance/-EFq6ASl_BjrZQUPZMwvqInWTLrNNNnYdxfoLRrYZVI
-    - title: Jonas
-      url: https://studio.code.org/projects/dance/Hexbbi9je2CH-oLu6KQZ8-pFFOErYLRrCXkLe30JBCc
-    - title: Eline
-      url: https://studio.code.org/projects/dance/YIm_JssSm1DUaYOY62kDNbgGcxXeufCDgb6TlrTveJs
-    - title: Eline T
-      url: https://studio.code.org/projects/dance/yzwpa299Yojg-dRnxsBi816Qk79UDdv7Dj04921Tasg
-    - title: Melanie
-      url: https://studio.code.org/projects/dance/UcjozRARna8W6GgIm76ky53Z8kKAvpItdFIWbrChxIY
-
-- title: Sonic Pi
-  items:
-    - title: Eigen muziek toevoegen
-      url: https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing
-
 - title: MIT App Inventor
+  group: games
+  description: Ontwerp en programmeer je eigen apps voor Android-smartphones en tablets.
   items:
     - title: Van Start met App Inventor
       url: https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing
@@ -224,4 +141,121 @@
       url: https://drive.google.com/file/d/1QKTCoFriLWsdN-H6zLj39KBcl3zJyOv_/view?usp=sharing
 
 - title: Scratch met HTTP calls
+  group: games
+  description: Verbind Scratch-projecten met het internet en externe API's via CodeSkool.
   url: https://ide.codeskool.cc
+
+- title: "micro:bit"
+  group: hardware
+  description: Programmeer een minicomputer met ledjes, knoppen en sensoren in blokjes of Python.
+  items:
+    - text: eerste stapjes
+      extras:
+        - title: blockly
+          url: https://drive.google.com/file/d/0B_FlIjXoGUrSaDlMNk5ZdS00MVE/view?usp=sharing&resourcekey=0-oW8px_X0gCz6N-zETuBWLg
+        - title: python
+          url: https://drive.google.com/file/d/0B_FlIjXoGUrSTGRPYTdNTXQ2OVk/view?usp=sharing&resourcekey=0-dAHf1Vd_aTG4euq57mX47Q
+    - title: "ninja:bit"
+      url: https://drive.google.com/file/d/11gVywUCyb3CfutYT0vQAWILB1tSIDXch/view?usp=sharing
+    - text: "micro:bit op wielen"
+      extras:
+        - title: Video
+          url: assets/IMG_0924.mp4
+    - title: mu editor
+      url: https://codewith.mu/
+
+- title: Mbot
+  group: hardware
+  description: Laat een mBot-robot rijden, obstakels ontwijken en dansen.
+  items:
+    - title: Ontwikkelomgeving online
+      url: https://ide.mblock.cc/
+    - title: Installatieprogramma
+      url: https://www.mblock.cc/download/
+    - title: Opdrachten
+      url: https://drive.google.com/drive/folders/0B0C5fMkcW0HMQXlTZXJGbVZtcXM?resourcekey=0-TQzgq_NBiNDMng49xvOTlg&usp=drive_link
+    - text: "Vlieg expeditie: dansende robots"
+      extras:
+        - title: uitleg
+          url: https://drive.google.com/file/d/0B0C5fMkcW0HMM1dzd0UzWkRqMEU/view?usp=sharing&resourcekey=0-W_2c7SiGUCyOTkkCjooFgA
+        - title: Scratch project
+          url: https://drive.google.com/file/d/0B0C5fMkcW0HMbG9UTXI3aWdnREk/view?usp=sharing&resourcekey=0--841l21AP8geYqr88nE6PA
+
+- title: Scratch For Arduino
+  group: hardware
+  description: Stuur sensoren en elektronica aan op een Arduino vanuit Scratch.
+  items:
+    - title: Scratch For Arduino
+      url: https://s4a.cat
+    - title: Installatiebestanden
+      url: https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link
+    - title: Parkeergarage - Firmata
+      url: assets/snap/Ultrasound_HC_SR04Firmata.ino
+    - title: Parkeergarage - Blocks
+      url: assets/snap/Ultrasound_HC_SR04_blocks.xml
+
+- title: Turtle (Python)
+  group: code
+  description: Leer je eerste echte code schrijven in Python door figuren te tekenen.
+  items:
+    - title: Leer tekenen met Turtle Graphics in Python
+      url: https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk
+      extras:
+        - title: PDF
+          url: https://drive.google.com/file/d/1zGSEsbZKQF3LdQCMOwpfJ02r6LZts0Q1/view?usp=sharing
+    - title: volledige documentatie van turtle module
+      url: https://docs.python.org/3/library/turtle.html
+
+- title: SVG
+  group: code
+  description: Programmeer scherpe vector-tekeningen met code.
+  items:
+    - title: tekeningen programmeren met SVG
+      url: https://dodona.be/nl/courses/3375/
+    - title: SVG Viewer
+      url: https://www.svgviewer.dev/
+
+- title: Sonic Pi
+  group: code
+  description: Maak live muziek en beats door code te schrijven.
+  items:
+    - title: Eigen muziek toevoegen
+      url: https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing
+
+- title: Websites bouwen
+  group: code
+  description: Voorbeelden van websites gemaakt door onze ninja's in HTML & CSS.
+  items:
+    - title: Ylan
+      url: https://jsfiddle.net/0w32kjuv
+    - title: Sander & Kevin
+      url: https://jsfiddle.net/6m0a5dwz/1
+    - title: Leyla
+      url: https://jsfiddle.net/4qrp71cs
+    - title: Peter
+      url: https://jsfiddle.net/e312x5zk/1
+    - title: Mathis
+      url: https://jsfiddle.net/v73z692q
+    - title: Imke
+      url: https://jsfiddle.net/pkax6c39
+
+# - title: Dance Party (projecten)
+#   group: code
+#   description: Gemaakte Dance Party-projecten van onze deelnemers ter inspiratie.
+#   items:
+#     - title: Emile
+#       url: https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU
+#     - title: Jaron
+#       url: https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0
+#     - title: Robbe
+#       url: https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU
+#     - title: Dymian
+#       url: https://studio.code.org/projects/dance/-EFq6ASl_BjrZQUPZMwvqInWTLrNNNnYdxfoLRrYZVI
+#     - title: Jonas
+#       url: https://studio.code.org/projects/dance/Hexbbi9je2CH-oLu6KQZ8-pFFOErYLRrCXkLe30JBCc
+#     - title: Eline
+#       url: https://studio.code.org/projects/dance/YIm_JssSm1DUaYOY62kDNbgGcxXeufCDgb6TlrTveJs
+#     - title: Eline T
+#       url: https://studio.code.org/projects/dance/yzwpa299Yojg-dRnxsBi816Qk79UDdv7Dj04921Tasg
+#     - title: Melanie
+#       url: https://studio.code.org/projects/dance/UcjozRARna8W6GgIm76ky53Z8kKAvpItdFIWbrChxIY

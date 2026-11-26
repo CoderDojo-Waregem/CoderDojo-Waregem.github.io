@@ -1,8 +1,30 @@
-<div class="kata-list">
-{%- for cat in site.data.kata %}
+{%- assign groups = "beginners|Eerste stapjes (beginners);games|Scratch, games & apps;hardware|Robots & hardware;code|Code, web & creatief" | split: ";" -%}
+<div class="kata-section" data-kata-section>
+<div class="kata-filters" role="group" aria-label="Filter opdrachten op thema">
+<button type="button" class="kata-filter is-active" data-filter="all" aria-pressed="true">Alles</button>
+{%- for g in groups -%}
+{%- assign parts = g | split: "|" -%}
+<button type="button" class="kata-filter" data-filter="{{ parts[0] }}" aria-pressed="false">{{ parts[1] }}</button>
+{%- endfor -%}
+</div>
+{%- for g in groups -%}
+{%- assign parts = g | split: "|" -%}
+{%- assign gid = parts[0] -%}
+{%- assign glabel = parts[1] -%}
+<div class="kata-group" data-group="{{ gid }}">
+<p class="kata-group-title"><strong>{{ glabel }}</strong></p>
+{%- for cat in site.data.kata -%}
+{%- if cat.group == gid -%}
 {%- if cat.items %}
-<details>
-<summary>{{ cat.title }}</summary>
+<details class="kata-card">
+<summary>
+<span class="kata-card-head">
+<span class="kata-card-title">{{ cat.title }}</span>
+<span class="kata-card-count">{{ cat.items.size }} {% if cat.items.size == 1 %}opdracht{% else %}opdrachten{% endif %}</span>
+</span>
+{%- if cat.description %}<span class="kata-card-desc">{{ cat.description }}</span>{% endif -%}
+</summary>
+<div class="kata-card-body">
 <ul>
 {%- for item in cat.items %}
 <li>{% if item.prefix %}{{ item.prefix }}{% endif %}{% if item.url %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.text }}{% endif %}{% if item.extras %} ({% if item.extras_prefix %}{{ item.extras_prefix }}{% endif %}{% assign sep = item.extras_sep | default: ", " %}{% for ex in item.extras %}<a href="{{ ex.url }}">{{ ex.title }}</a>{% unless forloop.last %}{{ sep }}{% endunless %}{% endfor %}){% endif %}{% if item.children %}
@@ -14,9 +36,40 @@
 {%- endif %}</li>
 {%- endfor %}
 </ul>
+</div>
 </details>
 {%- else %}
-<p><a href="{{ cat.url }}">{{ cat.title }}</a></p>
-{%- endif %}
+<a class="kata-card kata-card-link" href="{{ cat.url }}">
+<span class="kata-card-head">
+<span class="kata-card-title">{{ cat.title }}</span>
+<span class="kata-card-count">openen ↗</span>
+</span>
+{%- if cat.description %}<span class="kata-card-desc">{{ cat.description }}</span>{% endif -%}
+</a>
+{%- endif -%}
+{%- endif -%}
 {%- endfor %}
 </div>
+{%- endfor %}
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var root = document.querySelector("[data-kata-section]");
+  if (!root) return;
+  var buttons = root.querySelectorAll(".kata-filter");
+  var groups = root.querySelectorAll(".kata-group");
+  buttons.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var target = btn.getAttribute("data-filter");
+      buttons.forEach(function (b) {
+        var active = b === btn;
+        b.classList.toggle("is-active", active);
+        b.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+      groups.forEach(function (g) {
+        g.hidden = target !== "all" && g.getAttribute("data-group") !== target;
+      });
+    });
+  });
+});
+</script>
