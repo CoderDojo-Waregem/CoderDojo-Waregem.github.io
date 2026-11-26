@@ -1,0 +1,227 @@
+# Opdrachten (CoderKata) per categorie.
+# Elke categorie met `items` wordt getoond als een uitklapbaar <details>-blok.
+# Een item met alleen `title` + `url` wordt getoond als een directe link.
+
+- title: Hour of Code
+  items:
+    - title: Dance Party
+      url: https://code.org/dance
+    - title: Star Wars
+      url: https://studio.code.org/courses/starwarsblocks/units/1/lessons/1/levels/1?lang=nl-NL
+    - title: Minecraft
+      url: https://studio.code.org/courses/mc/units/1/lessons/1/levels/1?lang=nl-NL
+    - title: Angry Birds
+      url: https://studio.code.org/hoc/1
+    - title: Run Marco / Run Sophia
+      url: https://runmarco.allcancode.com
+    - title: Frozen
+      url: https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1?lang=nl-NL
+    - title: Moana
+      url: https://partners.disney.com/hour-of-code/wayfinding-with-code
+    - title: Flappy Bird
+      url: https://studio.code.org/flappy/1
+    - title: Lightbot
+      url: lightbot.html
+
+- title: code.org
+  items:
+    - title: cursus 1
+      url: https://studio.code.org/s/course1
+    - title: cursus 2
+      url: https://studio.code.org/s/course2
+    - title: cursus 3
+      url: https://studio.code.org/s/course3
+    - title: cursus 4
+      url: https://studio.code.org/s/course4
+
+- title: Scratch Junior
+  items:
+    - title: Overzicht van de blokken
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrScUNtVWNfOHlKWTA/view?usp=sharing&resourcekey=0-VneIarW6lKkxn_4zS6KAsA
+    - title: Door de stad rijden
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSdkt1Q2o0MlhpYWs/view?usp=sharing&resourcekey=0-PrKmyKzQae7xzC_69cxeVw
+    - title: Dierenrace
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSUWEtbXlJX0Z2Ujg/view?usp=sharing&resourcekey=0--hyLaN6J6Nhvp1HshHwzrQ
+    - title: Zonsondergang
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSX0hRbU13dVpMTFE/view?usp=sharing&resourcekey=0-60hZ7fKlEB4Hty5JyZ_EXw
+    - title: Opkomst van de maan
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSQ2xxMzhOaHFwYm8/view?usp=sharing&resourcekey=0-l5ccwhV9busaS_lNF-NSmA
+    - title: Spookachtig bos
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSUmg1RFdvb3hGZFk/view?usp=sharing&resourcekey=0-aHo3t8EniLAY2VM0u5JyDw
+    - title: Dribbelen
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSamRnSkNNRzBmWnc/view?usp=sharing&resourcekey=0-2TKOxBl-i5WphXscMPr1vQ
+    - title: Dansfeest
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSY2szUno4cElydWs/view?usp=sharing&resourcekey=0-HC6sHANPdMpx8PPF0ptEYA
+    - title: Ontmoeten en begroeten
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSZDJSODlkaEg4dmM/view?usp=sharing&resourcekey=0-FJ62ew2xG8LFdmEtv5rlZA
+    - title: Klasgesprek
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSUDdfRlZXTVpVcms/view?usp=sharing&resourcekey=0-OLVmzjdcnkSX6nQSK9yElg
+
+- title: Scratch
+  items:
+    - title: Scratch
+      url: https://scratch.mit.edu
+    - title: Star Hunter
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSOC1MNzBScnVmUVE/view?usp=sharing&resourcekey=0-FPiHNFB1mymHM-t31ClI2Q
+    - title: Kaasjacht
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSNFJyQkdjTEN6UG8/view?usp=sharing&resourcekey=0-iXU6M6v-aomb6KXkobqTzw
+    - title: Circle Wars
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrScnBQSlZmQW5TN28/view?usp=sharing&resourcekey=0-19F7VsIfuG1DHuyMxb-xgg
+    - title: Springende aap
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSR2hVdUY1Yjd2Z28/view?usp=sharing&resourcekey=0-9s0wqIdAoOaqyiq6JPKi0w
+    - title: Brokken op de bezem
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrScW1VbkhwQkJpUUU/view?usp=sharing&resourcekey=0-snY8jKdidlaeT06Bzx_V7A
+    - title: Hondenhapjes
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSQTlrY3dvcXpQMzQ/view?usp=sharing&resourcekey=0-8LxDB8-P4bBNf1Fkt40Gfg
+    - title: Gletsjerrace
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSUTZ3RVNQSElnR2c/view?usp=sharing&resourcekey=0-dyiv3Hf4rzuZal8otvwzcQ
+    - title: Tropical Tunes
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSYU1wcDU2bkZ0ZjQ/view?usp=sharing&resourcekey=0-MDKzmB2WKXAzI8cl3ZTnUw
+    - title: Simon Says
+      url: https://drive.google.com/file/d/0B_FlIjXoGUrSTC1sWVBhMDJXdzg/view?usp=sharing&resourcekey=0-xxTvl-y3BO2yj1ZShHVxMA
+      extras_prefix: "voorbeeldoplossing: "
+      extras_sep: "/"
+      extras:
+        - title: PDF
+          url: https://drive.google.com/open?id=0B_FlIjXoGUrSLVpsd0ZMejlkX0U
+        - title: Scratch
+          url: https://scratch.mit.edu/projects/134384127/
+    - prefix: "bezoek onze "
+      title: Scratch Studio
+      url: https://scratch.mit.edu/studios/3511910/
+
+- title: Scratch For Arduino
+  items:
+    - title: Scratch For Arduino
+      url: https://s4a.cat
+    - title: Installatiebestanden
+      url: https://drive.google.com/drive/folders/0B9JzX2ePyGz4UXc1NjRLLUoyOFk?resourcekey=0-sjjBIxoLacA-3ZcXTs6WHQ&usp=drive_link
+    - title: Parkeergarage - Firmata
+      url: assets/snap/Ultrasound_HC_SR04Firmata.ino
+    - title: Parkeergarage - Blocks
+      url: assets/snap/Ultrasound_HC_SR04_blocks.xml
+
+- title: Scratch & Artificiële Intelligentie (AI)
+  items:
+    - text: "stap 1: train je model"
+      children:
+        - title: Teachable Machine
+          url: https://teachablemachine.withgoogle.com/
+    - text: "stap 2: gebruik je model"
+      children:
+        - title: extensie voor afbeeldingen/geluid
+          url: https://champierre.github.io/tm2scratch/
+        - title: extensie voor houdingen
+          url: https://champierre.github.io/tmpose2scratch/
+        - title: extensie voor microbit
+          url: https://playground.raise.mit.edu/main/
+
+- title: Mbot
+  items:
+    - title: Ontwikkelomgeving online
+      url: https://ide.mblock.cc/
+    - title: Installatieprogramma
+      url: https://www.mblock.cc/download/
+    - title: Opdrachten
+      url: https://drive.google.com/drive/folders/0B0C5fMkcW0HMQXlTZXJGbVZtcXM?resourcekey=0-TQzgq_NBiNDMng49xvOTlg&usp=drive_link
+    - text: "Vlieg expeditie: dansende robots"
+      extras:
+        - title: uitleg
+          url: https://drive.google.com/file/d/0B0C5fMkcW0HMM1dzd0UzWkRqMEU/view?usp=sharing&resourcekey=0-W_2c7SiGUCyOTkkCjooFgA
+        - title: Scratch project
+          url: https://drive.google.com/file/d/0B0C5fMkcW0HMbG9UTXI3aWdnREk/view?usp=sharing&resourcekey=0--841l21AP8geYqr88nE6PA
+
+- title: "micro:bit"
+  items:
+    - text: eerste stapjes
+      extras:
+        - title: blockly
+          url: https://drive.google.com/file/d/0B_FlIjXoGUrSaDlMNk5ZdS00MVE/view?usp=sharing&resourcekey=0-oW8px_X0gCz6N-zETuBWLg
+        - title: python
+          url: https://drive.google.com/file/d/0B_FlIjXoGUrSTGRPYTdNTXQ2OVk/view?usp=sharing&resourcekey=0-dAHf1Vd_aTG4euq57mX47Q
+    - title: "ninja:bit"
+      url: https://drive.google.com/file/d/11gVywUCyb3CfutYT0vQAWILB1tSIDXch/view?usp=sharing
+    - text: "micro:bit op wielen"
+      extras:
+        - title: Video
+          url: assets/IMG_0924.mp4
+    - title: mu editor
+      url: https://codewith.mu/
+
+- title: websites bouwen
+  items:
+    - title: Ylan
+      url: https://jsfiddle.net/0w32kjuv
+    - title: Sander & Kevin
+      url: https://jsfiddle.net/6m0a5dwz/1
+    - title: Leyla
+      url: https://jsfiddle.net/4qrp71cs
+    - title: Peter
+      url: https://jsfiddle.net/e312x5zk/1
+    - title: Mathis
+      url: https://jsfiddle.net/v73z692q
+    - title: Imke
+      url: https://jsfiddle.net/pkax6c39
+
+- title: SVG
+  items:
+    - title: tekeningen programmeren met SVG
+      url: https://dodona.be/nl/courses/3375/
+    - title: SVG Viewer
+      url: https://www.svgviewer.dev/
+
+- title: Turtle
+  items:
+    - title: Leer tekenen met Turtle Graphics in Python
+      url: https://claude.ai/artifact/WXBtXWEPvuKVvRR58u9CRk
+      extras:
+        - title: PDF
+          url: https://drive.google.com/file/d/1zGSEsbZKQF3LdQCMOwpfJ02r6LZts0Q1/view?usp=sharing
+    - title: volledige documentatie van turtle module
+      url: https://docs.python.org/3/library/turtle.html
+
+- title: Dance Party
+  items:
+    - title: Emile
+      url: https://studio.code.org/projects/dance/D05NS25pjrLuKwG4ofhnnYofRnyMgHowcfWmFPM79CU
+    - title: Jaron
+      url: https://studio.code.org/projects/dance/mT_5J3ceoJfanObfkcH0I2e5AwiBF7SQ-TqDXy9-iA0
+    - title: Robbe
+      url: https://studio.code.org/projects/dance/IAkqCqQ5I525QHMd9hEoL8rnPg_VT2p3dCv9p8OjuRU
+    - title: Dymian
+      url: https://studio.code.org/projects/dance/-EFq6ASl_BjrZQUPZMwvqInWTLrNNNnYdxfoLRrYZVI
+    - title: Jonas
+      url: https://studio.code.org/projects/dance/Hexbbi9je2CH-oLu6KQZ8-pFFOErYLRrCXkLe30JBCc
+    - title: Eline
+      url: https://studio.code.org/projects/dance/YIm_JssSm1DUaYOY62kDNbgGcxXeufCDgb6TlrTveJs
+    - title: Eline T
+      url: https://studio.code.org/projects/dance/yzwpa299Yojg-dRnxsBi816Qk79UDdv7Dj04921Tasg
+    - title: Melanie
+      url: https://studio.code.org/projects/dance/UcjozRARna8W6GgIm76ky53Z8kKAvpItdFIWbrChxIY
+
+- title: Sonic Pi
+  items:
+    - title: Eigen muziek toevoegen
+      url: https://docs.google.com/document/d/1GE21_N0phedrENWMd749h8LsGFzk1rH8CEjnJYI1rAA/edit?usp=sharing
+
+- title: MIT App Inventor
+  items:
+    - title: Van Start met App Inventor
+      url: https://drive.google.com/file/d/1lEr8F7WzY2r6y8ER0AvleLPU9h7B2EUJ/view?usp=sharing
+    - title: Hallo, Android!
+      url: https://drive.google.com/file/d/1dmN9Uqy3eOfg1Q0rKlH9M16gxLXfvVnR/view?usp=sharing
+    - title: Botsende bal
+      url: https://drive.google.com/file/d/1Hg6iG9xnBoi1hWzkJkn_G5OJTgBgMvvN/view?usp=sharing
+    - title: Dierengeluiden
+      url: https://drive.google.com/file/d/1ZxoQhYeiVreYOWxYXgWgOVT8frFE_1-0/view?usp=sharing
+    - title: Waar is het noorden?
+      url: https://drive.google.com/file/d/1V8yawKcHtbL72byvrZvMASP0KnjXsAEb/view?usp=sharing
+    - title: Waar is de mol?
+      url: https://drive.google.com/file/d/1j-l4kAlYz6s_dwsOuynCl7zouycexUPJ/view?usp=sharing
+    - title: Space Invaders
+      url: https://drive.google.com/file/d/1lMNDLpzJAex9nHM54W48zp6f9UyunONw/view?usp=sharing
+    - title: Getal gokken voor 2 spelers
+      url: https://drive.google.com/file/d/1QKTCoFriLWsdN-H6zLj39KBcl3zJyOv_/view?usp=sharing
+
+- title: Scratch met HTTP calls
+  url: https://ide.codeskool.cc

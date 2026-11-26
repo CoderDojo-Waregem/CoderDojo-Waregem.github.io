@@ -1,0 +1,28 @@
+{%- assign current = site.data.edities[0] -%}
+<h3>Edities {{ current.season }}</h3>
+<table class="schedule-table">
+<thead>
+<tr><th>Datum</th><th>Uur</th><th>Inschrijven</th></tr>
+</thead>
+<tbody>
+{%- for e in current.editions %}
+<tr>
+<td>{% if e.cancelled %}<del>{{ e.date }}</del> ({{ e.cancelled }}){% elsif e.note %}{{ e.note }} - {{ e.date }}{% else %}{{ e.date }}{% endif %}</td>
+<td>{{ e.time | default: current.default_time }}</td>
+<td>{% if e.register %}<a href="{{ e.register }}">inschrijven</a>{% elsif e.photos %}<a href="{{ e.photos }}">foto's</a>{% endif %}</td>
+</tr>
+{%- endfor %}
+</tbody>
+</table>
+
+<details>
+<summary>Archief vorige Dojo's met foto's</summary>
+{%- for s in site.data.edities offset:1 %}
+<p class="archive-season"><strong>{{ s.season }}</strong></p>
+<ul>
+{%- for e in s.editions %}
+<li>{% if e.cancelled %}<del>{{ e.date }}, {{ e.time | default: s.default_time }}</del> ({{ e.cancelled }}){% else %}{% if e.note %}{{ e.note }} - {% endif %}{{ e.date }}, {{ e.time | default: s.default_time }}{% if e.photos %} (<a href="{{ e.photos }}">foto's</a>){% endif %}{% endif %}</li>
+{%- endfor %}
+</ul>
+{%- endfor %}
+</details>

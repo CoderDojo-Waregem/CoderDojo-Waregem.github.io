@@ -1,0 +1,22 @@
+<div class="kata-list">
+{%- for cat in site.data.kata %}
+{%- if cat.items %}
+<details>
+<summary>{{ cat.title }}</summary>
+<ul>
+{%- for item in cat.items %}
+<li>{% if item.prefix %}{{ item.prefix }}{% endif %}{% if item.url %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.text }}{% endif %}{% if item.extras %} ({% if item.extras_prefix %}{{ item.extras_prefix }}{% endif %}{% assign sep = item.extras_sep | default: ", " %}{% for ex in item.extras %}<a href="{{ ex.url }}">{{ ex.title }}</a>{% unless forloop.last %}{{ sep }}{% endunless %}{% endfor %}){% endif %}{% if item.children %}
+<ul>
+{%- for child in item.children %}
+<li><a href="{{ child.url }}">{{ child.title }}</a></li>
+{%- endfor %}
+</ul>
+{%- endif %}</li>
+{%- endfor %}
+</ul>
+</details>
+{%- else %}
+<p><a href="{{ cat.url }}">{{ cat.title }}</a></p>
+{%- endif %}
+{%- endfor %}
+</div>

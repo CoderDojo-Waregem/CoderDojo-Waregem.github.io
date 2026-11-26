@@ -1,0 +1,267 @@
+# Maandelijkse edities van CoderDojo Waregem.
+# Het eerste seizoen wordt getoond als het huidige werkjaar (en bepaalt automatisch
+# de "Volgende Dojo" bovenaan de pagina); alle volgende seizoenen komen in het archief.
+#
+# Velden per editie:
+#   date:      datum zoals getoond op de website
+#   time:      uur (optioneel; gebruikt anders default_time van het seizoen)
+#   register:  Eventbrite-inschrijvingslink
+#   photos:    link naar het fotoalbum na afloop
+#   note:      optioneel label vóór de datum (bv. feesteditie)
+#   cancelled: optionele reden als de editie geannuleerd werd
+
+- season: "2026-2027"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 19 september 2026
+      photos: https://photos.app.goo.gl/nsZvJiSWhBgppmAKA
+    - date: zaterdag 17 oktober 2026
+      photos: https://photos.app.goo.gl/GwE93NNiXGvj7eVg8
+    - date: zaterdag 21 november 2026
+      photos: https://photos.app.goo.gl/xXn9Ui9q2buJ8yWB7
+    - date: zaterdag 12 december 2026
+      register: https://www.eventbrite.com/e/registratie-coderdojo-waregem-12122026-2004433301964
+    - date: zaterdag 23 januari 2027
+    - date: zaterdag 20 februari 2027
+    - date: zaterdag 27 maart 2027
+    - date: zaterdag 17 april 2027
+    - date: zaterdag 22 mei 2027
+    - date: zaterdag 26 juni 2027
+
+- season: "2025-2026"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 20 september 2025
+      photos: https://photos.app.goo.gl/6vi15764rojwVjJg9
+    - date: zaterdag 18 oktober 2025
+      photos: https://photos.app.goo.gl/64nWQE6JJF6H99Xy6
+    - date: zaterdag 15 november 2025
+      photos: https://photos.app.goo.gl/s5Rq2c48tr1VpJceA
+    - date: zaterdag 20 december 2025
+      photos: https://photos.app.goo.gl/78D9r3CYujSGZvzh8
+    - date: zaterdag 17 januari 2026
+      photos: https://photos.app.goo.gl/sYhbmJaa4P2NkJnT8
+    - date: zaterdag 21 februari 2026
+      photos: https://photos.app.goo.gl/smBKkSFVPi2T2TQT6
+    - date: zaterdag 14 maart 2026
+      photos: https://photos.app.goo.gl/oK7CenaZq6vraPaY8
+    - date: zaterdag 18 april 2026
+      photos: https://photos.app.goo.gl/BqYBPgsdJxSTxSFE8
+    - date: zaterdag 23 mei 2026
+      note: "🎉 10 JAAR CDJ WAREGEM FEESTEDITIE"
+      photos: https://photos.app.goo.gl/C7ic2kVywusGHyiHA
+    - date: zaterdag 20 juni 2026
+      photos: https://photos.app.goo.gl/E2TzuRD9rD9PwQmr5
+
+- season: "2024-2025"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 21 september 2024
+      photos: https://photos.app.goo.gl/jCTL2SUJwzKUUx129
+    - date: zaterdag 12 oktober 2024
+      photos: https://photos.app.goo.gl/4rs7eafwdmrpSPf3A
+    - date: zaterdag 9 november 2024
+      photos: https://photos.app.goo.gl/cPwhJW9fqcDyzwHk8
+    - date: zaterdag 7 december 2024
+      photos: https://photos.app.goo.gl/dN1w3rP3zbbvsXrHA
+    - date: zaterdag 18 januari 2025
+      photos: https://photos.app.goo.gl/v5cSEtVfuRcXHwXd7
+    - date: zaterdag 15 februari 2025
+      photos: https://photos.app.goo.gl/seDfbJVw2KhFvZp98
+    - date: zaterdag 15 maart 2025
+      photos: https://photos.app.goo.gl/ng92ZNsRKaa7yyX19
+    - date: zaterdag 19 april 2025
+      photos: https://photos.app.goo.gl/nRpuUseVpbq2uD6P6
+    - date: zaterdag 10 mei 2025
+      photos: https://photos.app.goo.gl/DKSWmGCgiKKvWFgZA
+    - date: zaterdag 14 juni 2025
+      photos: https://photos.app.goo.gl/a3RWhZ4F78VpFRJN6
+
+- season: "2023-2024"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 16 september 2023
+      photos: https://photos.app.goo.gl/o4R6NTcuz9nuuDxYA
+    - date: zaterdag 14 oktober 2023
+      photos: https://photos.app.goo.gl/yyKbFMUCTQZBCTf2A
+    - date: zaterdag 18 november 2023
+      photos: https://photos.app.goo.gl/XJ2qKaePxVWKgNUs8
+    - date: zaterdag 16 december 2023
+      photos: https://photos.app.goo.gl/HLVhGNd2vspDYL4V8
+    - date: zaterdag 20 januari 2024
+      photos: https://photos.app.goo.gl/KmRWEYcfrFHTE42m7
+    - date: zaterdag 17 februari 2024
+      photos: https://photos.app.goo.gl/eEVTrkDkttkoygXc6
+    - date: zaterdag 16 maart 2024
+      photos: https://photos.app.goo.gl/dP5xPp1FkMM6uTYq6
+    - date: zaterdag 20 april 2024
+      photos: https://photos.app.goo.gl/BxHS5f8K7X66bStQ6
+    - date: zaterdag 18 mei 2024
+      photos: https://photos.app.goo.gl/Rgwj3iacB57RjWk87
+    - date: zaterdag 15 juni 2024
+      photos: https://photos.app.goo.gl/27Z6YLZaPEnbBT146
+
+- season: "2022-2023"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 24 september 2022
+      photos: https://photos.app.goo.gl/GcsNqWnG1ui8Tu358
+    - date: zaterdag 15 oktober 2022
+      photos: https://photos.app.goo.gl/1CWnkvyfemK1dfuz6
+    - date: zaterdag 19 november 2022
+      photos: https://photos.app.goo.gl/cNKDBnyLSRogMUke9
+    - date: zaterdag 17 december 2022
+      photos: https://photos.app.goo.gl/Hi5iiyyWKHDRs5AeA
+    - date: zaterdag 21 januari 2023
+      photos: https://photos.app.goo.gl/rf2jDHTWDHp9mLp68
+    - date: zaterdag 25 februari 2023
+      photos: https://photos.app.goo.gl/uA3Sh8ob2MQ54BEz7
+    - date: zaterdag 18 maart 2023
+      photos: https://photos.app.goo.gl/BDatU54sYpHfPChk9
+    - date: zaterdag 15 april 2023
+      photos: https://photos.app.goo.gl/CAtod9hSvuZRWnqW7
+    - date: zaterdag 13 mei 2023
+    - date: zaterdag 17 juni 2023
+      photos: https://photos.app.goo.gl/maxVAPBtvzPUSEVUA
+
+- season: "2021-2022"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 18 september 2021
+      photos: https://photos.app.goo.gl/1yRdXEMP2bS87jEL8
+    - date: zaterdag 16 oktober 2021
+      photos: https://photos.app.goo.gl/w1YZV38sSHhhLw1M8
+    - date: zaterdag 20 november 2021
+      photos: https://photos.app.goo.gl/cVxrdx81pkaJVnD89
+    - date: zaterdag 11 december 2021
+      photos: https://photos.app.goo.gl/PakXRGjkiLaoszfU9
+    - date: zaterdag 15 januari 2022
+      photos: https://photos.app.goo.gl/BHhe8F8wK2ogob6dA
+    - date: zaterdag 19 februari 2022
+      photos: https://photos.app.goo.gl/3HMXkVb4HWq6ANdZ9
+    - date: zaterdag 19 maart 2022
+      photos: https://photos.app.goo.gl/kHj5FRXLgtsAWSLw5
+    - date: zaterdag 23 april 2022
+      photos: https://photos.app.goo.gl/YBheTQkZyjXUSpwKA
+    - date: zaterdag 14 mei 2022
+      photos: https://photos.app.goo.gl/Zn5EfSBEKK64YCqL8
+    - date: zaterdag 18 juni 2022
+      photos: https://photos.app.goo.gl/xGqXEvmctvnJ8sSF7
+
+- season: "2020-2021"
+  default_time: "09:30-12:15"
+  editions:
+    - date: zaterdag 19 september 2020
+      photos: https://photos.app.goo.gl/5juEPsQysdRKwWnR9
+    - date: zaterdag 17 oktober 2020
+      photos: https://photos.app.goo.gl/8V3W59DbHCdKsRHY7
+    - date: zaterdag 21 november 2020
+      photos: https://photos.app.goo.gl/HrckXVgMojGMbmVPA
+    - date: zaterdag 19 december 2020
+      photos: https://photos.app.goo.gl/mFLu8sTzodR5Qv518
+    - date: zaterdag 16 januari 2021
+      photos: https://photos.app.goo.gl/fZyv3WPNxboFgz7T7
+    - date: zaterdag 20 februari 2021
+      photos: https://photos.app.goo.gl/Wg4v8QvEcAAyT32r5
+    - date: zaterdag 20 maart 2021
+      photos: https://photos.app.goo.gl/LVsXPkcURvYrpGfj9
+    - date: zaterdag 17 april 2021
+      photos: https://photos.app.goo.gl/1udqYEwZiFHHSNTz8
+    - date: zaterdag 22 mei 2021
+      photos: https://photos.app.goo.gl/Yei2NYNesmqLAvSP7
+    - date: zaterdag 19 juni 2021
+      photos: https://photos.app.goo.gl/84X6iqVbTBSCRB7v6
+
+- season: "2019-2020"
+  default_time: "09:30-12:30"
+  editions:
+    - date: zaterdag 21 september 2019
+      photos: https://photos.app.goo.gl/LtJKBR6UWt7CMS138
+    - date: zaterdag 19 oktober 2019
+      photos: https://photos.app.goo.gl/tyh8BREN1uxeDv2x9
+    - date: zaterdag 16 november 2019
+      photos: https://photos.app.goo.gl/RVhiy9eHEberKTGs7
+    - date: zaterdag 21 december 2019
+      photos: https://photos.app.goo.gl/cujGuQhT2bKhdpjK6
+    - date: zaterdag 18 januari 2020
+      photos: https://photos.app.goo.gl/79ajuq89x7zSshQC6
+    - date: zaterdag 15 februari 2020
+      photos: https://photos.app.goo.gl/3qTt3xPEHDvjYM6D7
+    - date: zaterdag 21 maart 2020
+      cancelled: afgelast door die stomme corona
+    - date: zaterdag 18 april 2020
+      photos: https://photos.app.goo.gl/sXvLM9Q2rpHhBW436
+    - date: zaterdag 9 mei 2020
+      photos: https://photos.app.goo.gl/pG4tZ4hdmsSU5iwQ9
+    - date: zaterdag 20 juni 2020
+      photos: https://photos.app.goo.gl/fYGzKZRpYgVzQGtLA
+
+- season: "2018-2019"
+  default_time: "09:30-12:30"
+  editions:
+    - date: zaterdag 15 september 2018
+    - date: zaterdag 20 oktober 2018
+      photos: https://photos.app.goo.gl/ePgR7DzJ81Frtx8PA
+    - date: zaterdag 17 november 2018
+      photos: https://photos.app.goo.gl/nTzyMuMYweKbufwJA
+    - date: zaterdag 15 december 2018
+      photos: https://photos.app.goo.gl/FjM9i37hEgrc8XpH8
+    - date: zaterdag 19 januari 2019
+      photos: https://photos.app.goo.gl/2MCDQQt5Xg4rb3cF9
+    - date: zaterdag 16 februari 2019
+      photos: https://photos.app.goo.gl/m4v72V77JaR2HfH89
+    - date: zaterdag 16 maart 2019
+      photos: https://photos.app.goo.gl/yujKkyYasmUm27Db6
+    - date: zaterdag 20 april 2019
+      photos: https://photos.app.goo.gl/9yksprBtY9STgV3W9
+    - date: zaterdag 18 mei 2019
+      photos: https://photos.app.goo.gl/NdwUcvzSr2JPRChDA
+    - date: zaterdag 8 juni 2019
+      photos: https://photos.app.goo.gl/nNDUrnZqypWBXkQY9
+
+- season: "2017-2018"
+  default_time: "09:30-12:30"
+  editions:
+    - date: zaterdag 16 september 2017
+      photos: https://photos.app.goo.gl/P3EJ5WkFiDO7JoLo2
+    - date: zaterdag 21 oktober 2017
+      photos: https://photos.app.goo.gl/heT1wVgX1ceHCLnQ2
+    - date: zaterdag 18 november 2017
+      photos: https://photos.app.goo.gl/kcAkUb0M532ubsz73
+    - date: zaterdag 16 december 2017
+      photos: https://photos.app.goo.gl/kf06D6xB63ZMjKLq1
+    - date: zaterdag 20 januari 2018
+      photos: https://photos.app.goo.gl/b52SIc1IsxofZONj1
+    - date: zaterdag 17 februari 2018
+      photos: https://photos.app.goo.gl/bBq2qTkZDu8KzBn13
+    - date: zaterdag 17 maart 2018
+      photos: https://photos.app.goo.gl/me3LMc3WfACfilO53
+    - date: zaterdag 21 april 2018
+    - date: zaterdag 19 mei 2018
+      photos: https://photos.app.goo.gl/W0YVutO7BLKxNnDE3
+    - date: zaterdag 16 juni 2018
+      photos: https://photos.app.goo.gl/Ug48HZQBcdfrD9Xo6
+
+- season: "2016-2017"
+  default_time: "09:30-12:30"
+  editions:
+    - date: zaterdag 29 oktober 2016
+      time: "10:00-13:00"
+      photos: https://goo.gl/photos/b2cYKHVmqAGsx9CW6
+    - date: zaterdag 19 november 2016
+      time: "09:00-12:00"
+      photos: https://goo.gl/photos/pbEZzFzpphPArspK7
+    - date: zaterdag 10 december 2016
+      photos: https://goo.gl/photos/Snwn1t67TA2AWzmo9
+    - date: zaterdag 21 januari 2017
+      photos: https://goo.gl/photos/xDYwve2wtVPbqMZc8
+    - date: zaterdag 25 februari 2017
+      photos: https://goo.gl/photos/DWp7LJLDPDpSbHUk9
+    - date: zaterdag 18 maart 2017
+      photos: https://goo.gl/photos/mB9KpBYMhy9xsQGR9
+    - date: zaterdag 15 april 2017
+      photos: https://goo.gl/photos/inKkNTPqBPbWQ61j9
+    - date: zaterdag 13 mei 2017
+      photos: https://goo.gl/photos/SxVawPJARrjQFN356
+    - date: zaterdag 17 juni 2017
+      photos: https://goo.gl/photos/rHCSh8MN7smQqMzPA

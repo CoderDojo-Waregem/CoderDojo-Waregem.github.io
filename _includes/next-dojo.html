@@ -1,0 +1,29 @@
+{%- assign current = site.data.edities[0] -%}
+{%- assign next_edition = nil -%}
+{%- for e in current.editions -%}
+  {%- if e.register -%}
+    {%- assign next_edition = e -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- unless next_edition -%}
+  {%- for e in current.editions -%}
+    {%- unless e.photos or e.cancelled -%}
+      {%- assign next_edition = e -%}
+      {%- break -%}
+    {%- endunless -%}
+  {%- endfor -%}
+{%- endunless -%}
+<div class="site-actions">
+{%- if next_edition %}
+<div class="next-dojo"><strong>Volgende Dojo:</strong> {{ next_edition.date }} ({{ next_edition.time | default: current.default_time }})</div>
+{%- endif %}
+<div class="site-actions-buttons">
+{%- if next_edition and next_edition.register %}
+<a href="{{ next_edition.register }}">Inschrijven</a>
+{%- endif %}
+<a href="#coderwanneer">Alle komende data</a>
+<a href="#coderwaar">Contacteer ons</a>
+<a href="#coderkata" class="site-actions-alt">Opdrachten</a>
+</div>
+</div>

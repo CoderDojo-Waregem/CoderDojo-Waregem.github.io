@@ -5,12 +5,31 @@
 
 .site-actions {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   gap: 10px;
   margin: 0 0 24px;
   padding: 16px;
   background: #eef6fb;
   border-left: 4px solid #3399cc;
+}
+
+.site-actions .next-dojo {
+  margin: 0;
+  color: #222;
+}
+
+.site-actions-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.archive-season {
+  margin: 16px 0 6px;
+}
+
+.kata-list details {
+  margin: 0 0 12px;
 }
 
 .site-actions a {
